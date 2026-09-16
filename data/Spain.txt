@@ -1,0 +1,41 @@
+﻿tab delimited	contribution
+data_model_version	description
+3.0	Downloaded from MagIC at 2026-02-05T15:29:54.483Z.
+>>>>>>>>>>
+tab delimited	locations
+location	location_type	location_alternatives	result_name	result_type	method_codes	citations	expedition_name	geologic_classes	lithologies	plate_blocks	lat_s	lat_n	lon_w	lon_e	elevation_low	elevation_high	continent_ocean	country	region	age	age_sigma	age_low	age_high	age_unit	dir_tilt_correction	dir_dec	dir_inc	dir_alpha95	dir_r	dir_k	dir_polarity	dir_n_sites	dir_n_samples	pole_lat	pole_lon	pole_reversed_perc	pole_antipodal_angle	paleolat	paleolon	paleopole_n_sites	description	external_database_ids	pis
+Switzerland	Region					VEITCH ET AL. (1984)					43.3	47.17	2.4	8.8																													
+Spain	Region					BURAKOV ET AL. (1991)					39.04	39.04	356.51	356.51			Europe																								La Motilla del Azuer monument.		
+France	Region					10.1016/S0031-9201(00)00148-5					43	48.61	0.03	359.75			Europe																								Toulouse.		
+France	Region					10.1016/S0031-9201(02)00030-4					43.6	44.9	1.5	3.6			Europe																								Loupiac.		
+France	Region					10.1016/0031-9201(94)90024-8					43.2	50.6	0	359.5			Europe																								St Blaise.		
+Spain	Region					10.1111/J.1365-246X.1993.TB01186.X					42.27	42.27	354.85	354.85																											Calahorra: La Maja'.		
+South Eastern Spain	Outcrop					CALVO-RATHERT ET AL. (2009)					36.8	38.46	357.89	358.92				Spain																									
+Spain	Region					CATANZARITI ET AL. (2008)					40.14	40.14	354.27	354.27			Europe																								Yuste Monastery.		
+Spain	Region					OYAMBURU ET AL. (1996)					40.3	40.3	356.6	356.6			Europe																								Villa del Pa�uelo I.		
+France	Region					10.1016/0031-9201(81)90136-9					42.1	50.8	0	359.7			Europe																								Ampurias.		
+Spain	Region					10.1016/0031-9201(81)90136-9					42.12	42.12	359.21	359.21			Europe																								Ampurias.		
+Spain	Region					10.1111/J.1365-246X.2006.03020.X					35.89	41.5	0.02	359.63			Europe																								Plaza de Moros.		
+Messejana	Region					10.1029/91JB00871					36.6	40.1	350.3	357.4			Europe		Portugal																								
+Massif Central France	Outcrop		Brunhes-age VGP's	a	FS-FD : LP-DC3 : LP-DIR : LT-AF-Z : SO-SIGHT-LM:GM-PMAG-POL	10.1016/0012-821X(70)90108-1		Extrusive	Basalt		43.4	45.9	2.9	4.4			Europe	France	Chaine des Puys			0.78	5	Ma	0	357.8	60.3	3.8	29.925			31	219	86.4	212.2	0					Pre-Brunhes to Brunhes Epoch.	GPMDB[3054]	
+Massif Central France	Outcrop		Pre-Brunhes-age VGP's	a	FS-FD : LP-DC3 : LP-DIR : LT-AF-Z : SO-SIGHT-LM:GM-PMAG-POL	10.1016/0012-821X(70)90108-1		Extrusive	Basalt		43.4	45.9	2.9	4.4			Europe	France	Chaine des Puys			0	0.78	Ma	0	357.9	49.4	12.1	9.475			10	73	77.5	187.5	70	162				Pre-Brunhes to Brunhes Epoch.	GPMDB[3055]	
+Massif Central France	Outcrop		Pre-Brunhes-age VGP's	a	FS-FD : LP-DC3 : LP-DIR : LT-AF-Z : SO-SIGHT-LM:GM-PMAG-POL	10.1016/0012-821X(70)90108-1		Extrusive	Basalt		43.4	45.9	2.9	4.4			Europe	France	Chaine des Puys			0	0.78	Ma	0	351.9	61.3	10.7		134.2		3		77.5	187.5	70	162				Pre-Brunhes to Brunhes Epoch.	GPMDB[3055]	
+Massif Central France	Outcrop		Pre-Brunhes-age VGP's	a	FS-FD : LP-DC3 : LP-DIR : LT-AF-Z : SO-SIGHT-LM:GM-PMAG-POL	10.1016/0012-821X(70)90108-1		Extrusive	Basalt		43.4	45.9	2.9	4.4			Europe	France	Chaine des Puys			0	0.78	Ma	0	179.7	-43.9	16.5		14.4	r	7		77.5	187.5	70	162				Pre-Brunhes to Brunhes Epoch.	GPMDB[3055]	
+Bulgaria	Region					KOVACHEVA & TOSHKOV (1991)					42.3	43.6	22.65	354.5																											Jambol'.		
+Spain	Stratigraphic Section					DIJKSMAN (1978)					41.2	41.2	358.9	358.9			Europe	Spain																							Daroca II  R-N.		
+Spain	Region					10.1016/J.PEPI.2006.03.001					37.98	37.98	358.88	358.88			Europe																								Murcia c/Puxmarina.		
+42	Region	Pyrenees Andesites				10.1016/0031-0182(67)90028-4		Igneous :  Extrusive	Extrusives		42	42	1.5	1.5								271	299	Ma																			
+Pego Real	Archeological Site				LT-NO		Wolfman Project Code: 6820; Wolfman Project Title Code: PR	Archeologic	Not Specified		39.46	39.46	351.85	351.85			Europe	Portugal				1500.0	-1000.0	Years AD (+/-)																	Note from Shelby Jones: Refer to sites table for details		0000-0002-3763-3616
+23	Region	Spain				10.1186/BF03352885		Igneous	Not Specified	Eurasian Plate	37.82	37.82	358.47	358.47								2.61	8.2	Ma														36.94	357.26	1			
+Lairiere section	Outcrop	Corbieres Pyrennees		i	 DE-DI : LT-AF-Z : LT-T-Z:LP-DC3 	10.1144/JGS2019-084		Sedimentary	Carbonaceous Mudstone:Limestone		43.01	43.02	2.49	2.5			Europe	France	Southern France			55	70	Ma																	Large amount of goethite in several samples and strong overprint in PDF. Goethite identified by MPMS and thermal demagnetization of IRM		
+Sa Mesquida	Archeological Site					10.1016/J.PEPI.2021.106749		Archeologic	Clay		39.52	39.52	2.49	2.49				Spain		425	25	400	450	Years AD (+/-)																			
+Es Castell	Archeological Site					10.1016/J.PEPI.2021.106749		Archeologic	Clay		38.91	38.91	1.42	1.42				Spain		512.5	12.5	500	525	Years AD (+/-)																			
+Can Sorà	Archeological Site					10.1016/J.PEPI.2021.106749		Archeologic	Clay		38.89	38.89	1.22	1.22				Spain				400	625	Years AD (+/-)																			
+Messejana	Region					Perrin et al. 1991					37.6	37.6	355.2	355.2			Europe		Portugal																								
+Switzerland	Region					VEITCH ET AL. (1984)					43.3	47.17	2.4	8.8			Europe																								Carcassone.		
+Spain	Region					KOVACHEVA ET AL. (1995)					42.3	42.3	2	2																													
+Spain	Region					NACHOSOVA ET AL. (2002)					39.5	39.5	359.6	359.6			Europe																								Valencia.		
+France	Region					HEDLEY & WAGNER (1991)					43.24	46.6	1.9	5.8			Europe																								Bram.		
+South Eastern (Spain)	Outcrop				LP-DIR	10.1029/2024JB029502		Igneous:Extrusive	Not Specified		36.89	38.46	358.0	358.92						5.0				Ma																			
+Spain	Outcrop				LP-DIR	10.1029/2024JB029502		Igneous:Extrusive	Not Specified		36.89	38.46	358.0	358.92						5.0				Ma																			
+EL SALT	Archeological Site							Archeologic	Ash:Burnt Sediment		38.686889	38.686889	359.490924	359.490924	680	680		Spain				45	81.5	ka																			

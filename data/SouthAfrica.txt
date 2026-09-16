@@ -1,0 +1,512 @@
+﻿tab delimited	contribution
+data_model_version	description
+3.0	Downloaded from MagIC at 2026-03-20T15:38:28.799Z.
+>>>>>>>>>>
+tab delimited	locations
+location	sites	location_type	location_alternatives	result_name	result_type	method_codes	citations	expedition_name	geologic_classes	lithologies	plate_blocks	terranes	geological_province_sections	tectonic_settings	lat_s	lat_n	lon_w	lon_e	elevation_low	elevation_high	continent_ocean	country	region	village_city	age	age_sigma	age_low	age_high	age_unit	dir_tilt_correction	dir_dec	dir_inc	dir_alpha95	dir_r	dir_k	dir_k_ratio	dir_polarity	dir_n_sites	dir_n_samples	fold_test_significance	fold_test	conglomerate_test	contact_test	reversal_test	pole_lat	pole_lon	pole_dp	pole_dm	pole_alpha95	pole_reversed_perc	pole_antipodal_angle	paleolat	paleolon	paleopole_n_sites	pdm	pdm_sigma	padm	padm_sigma	padm_n_sites	int_abs	int_abs_sigma	int_abs_sigma_perc	int_n_sites	description	rock_magnetic_test	criteria	external_database_ids	pis	analysts
+location-0		Region					10.1029/2009TC002596		Igneous:Metamorphic	Granite:Monzonite:Mylonite					36.8171	39.4359	25.9846	29.1556									11.6	48.1	Ma																																								
+609b		Core							Sedimentary	Nannofossil Ooze					49.86	49.86	24.23	24.23							0.82486				Ma																																								
+664d		Core							Sedimentary	Nannofossil Ooze					0.1	0.1	23.2667	23.2667							0.80672				Ma																																								
+665a		Core							Sedimentary	Nannofossil Ooze					3	3	20	20							0.81725				Ma																																								
+983edited		Core							Sedimentary	Nannofossil Ooze					61.4	61.4	24.1	24.1							1.8889				Ma																																								
+location-1		Outcrop					10.1130/L575.1		Igneous	Granite					37.11835	37.11835	25.18858	25.18858									5.3	16	Ma																																								
+location-7		Outcrop					10.1130/L575.1		Igneous	Aplite					37.01716	37.01716	25.23922	25.23922									5.3	16	Ma																																								
+location-8		Outcrop					10.1130/L575.1		Intrusive	Granite					37.03738	37.03738	25.19604	25.19604									5.3	16	Ma																																								
+location-12		Outcrop					10.1130/L575.1		Intrusive	Rhyolite					37.13611	37.13611	25.20968	25.20968									5.3	16	Ma																																								
+location-0		Outcrop					10.1130/L575.1		Intrusive	Granite					37.11699	37.11699	25.18168	25.18168									5.3	16	Ma																																								
+location-2		Outcrop					10.1130/L575.1		Igneous	Granite					37.12557	37.12557	25.2094	25.2094									5.3	16	Ma																																								
+location-3		Outcrop					10.1130/L575.1		Igneous	Granite					37.05601	37.05601	25.17196	25.17196									5.3	16	Ma																																								
+location-4		Outcrop					10.1130/L575.1		Igneous	Aplite					37.07887	37.07887	25.21037	25.21037									5.3	16	Ma																																								
+location-5		Outcrop					10.1130/L575.1		Igneous	Granite					37.03913	37.03913	25.19551	25.19551									5.3	16	Ma																																								
+location-6		Outcrop					10.1130/L575.1		Igneous	Aplite					37.0162	37.0162	25.23998	25.23998									5.3	16	Ma																																								
+location-9		Outcrop					10.1130/L575.1		Intrusive	Granite					37.12326	37.12326	25.20688	25.20688									5.3	16	Ma																																								
+location-10		Outcrop					10.1130/L575.1		Intrusive	Granite					37.12692	37.12692	25.20966	25.20966									5.3	16	Ma																																								
+location-11		Outcrop					10.1130/L575.1		Intrusive	Quartzite					37.00694	37.00694	25.24219	25.24219									5.3	16	Ma																																								
+location-14		Outcrop					10.1130/L575.1		Intrusive	Granite					37.11962	37.11962	25.1922	25.1922									5.3	16	Ma																																								
+location-15		Outcrop					10.1130/L575.1		Intrusive	Granite					37.1108	37.1108	25.17237	25.17237									5.3	16	Ma																																								
+location-2		Outcrop					10.1016/J.QUASCIREV.2014.11.021		Extrusive	Basalt					38.6129	38.6129	28.7943	28.7943									1.2	1.4	Ma																																								
+location-1		Outcrop					10.1016/J.QUASCIREV.2014.11.021		Extrusive	Basalt					38.6199	38.6199	28.8133	28.8133									1.2	1.4	Ma																																								
+location-6		Outcrop					10.1016/J.QUASCIREV.2014.11.021		Extrusive	Basalt					38.6102	38.6102	28.7697	28.7697									1.2	1.4	Ma																																								
+location-0		Outcrop					10.1016/J.QUASCIREV.2014.11.021		Extrusive	Basalt					38.6301	38.6301	28.8128	28.8128									1.2	1.4	Ma																																								
+location-1		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.3857	41.3857	23.4211	23.4211									28	29	Ma																																								
+location-2		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.3854	41.3854	23.4218	23.4218									28	29	Ma																																								
+location-5		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.382	41.382	23.4254	23.4254									28	29	Ma																																								
+location-14		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.4111	41.4111	24.0917	24.0917									23	38	Ma																																								
+location-16		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.413	41.413	24.0912	24.0912									23	38	Ma																																								
+location-17		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.4135	41.4135	24.0878	24.0878									23	38	Ma																																								
+location-18		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.4138	41.4138	24.0876	24.0876									23	38	Ma																																								
+location-19		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					43.1681	43.1681	25.1263	25.1263									19.4	24	Ma																																								
+location-20		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					43.1681	43.1681	25.1263	25.1263									19.4	24	Ma																																								
+location-40		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.2712	41.2712	25.2478	25.2478									31	33	Ma																																								
+location-0		Outcrop					10.1144/0016-76492006-061		Sedimentary	Marls					36.1	36.1	27.7	27.7									3.4	3.6	Ma																																								
+location-1		Outcrop					10.1144/0016-76492006-061		Sedimentary	Marls					36	36	27.76	27.76									3.6	4.2	Ma																																								
+location-7		Outcrop					10.1016/J.EPSL.2008.06.051		Extraterrestrial	Basalt					42.0175	42.0175	24.2601	24.2601									23	38	Ma																																								
+location-23		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					43.2902	43.2902	25.1736	25.1736									19.4	24	Ma																																								
+location-24		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					43.2902	43.2902	25.1736	25.1736									19.4	24	Ma																																								
+location-25		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					43.2285	43.2285	25.1526	25.1526									19.4	24	Ma																																								
+location-26		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					42.0415	42.0415	25.2345	25.2345									31.5	35	Ma																																								
+location-32		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					42.0446	42.0446	25.245	25.245									31.5	35	Ma																																								
+location-36		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					42.0346	42.0346	25.2773	25.2773									31.5	35	Ma																																								
+location-44		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.2539	41.2539	25.2561	25.2561									31	33	Ma																																								
+location-45		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.2471	41.2471	25.2567	25.2567									31	33	Ma																																								
+location-46		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.2469	41.2469	25.248	25.248									31	33	Ma																																								
+location-47		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.2447	41.2447	25.2473	25.2473									31	33	Ma																																								
+location-48		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.2444	41.2444	25.2466	25.2466									31	33	Ma																																								
+Thessaloniki		Archeological Site							Archeologic	Not Specified					40.63	40.63	22.95	22.95									1400	1200	Years AD (+/-)																																			Byzantine					
+Olympiada		Archeological Site							Archeologic	Not Specified					40.59	40.59	23.79	23.79									-300	-350	Years AD (+/-)																																			Classical-Hellenistic					
+Katerini		Archeological Site							Archeologic	Not Specified					40.27	40.27	22.5	22.5									-180	-320	Years AD (+/-)																																			Hellinistic					
+Edessa		Archeological Site							Archeologic	Not Specified					40.8	40.8	20.01	20.01									-200	-300	Years AD (+/-)																																			Hellinistic					
+Paros		Archeological Site							Archeologic	Not Specified					37.08	37.08	25.15	25.15									100	-100	Years AD (+/-)																																			Early Roman					
+Olympiada		Archeological Site							Archeologic	Not Specified					40.59	40.59	23.79	23.79									-300	-350	Years AD (+/-)																																			Classical-Hellenistic					
+Katerini		Archeological Site							Archeologic	Not Specified					40.27	40.27	22.5	22.5									-180	-320	Years AD (+/-)																																			Hellinistic					
+Edessa		Archeological Site							Archeologic	Not Specified					40.8	40.8	20.01	20.01									-200	-300	Years AD (+/-)																																			Hellinistic					
+Paros		Archeological Site							Archeologic	Not Specified					37.08	37.08	25.15	25.15									100	-100	Years AD (+/-)																																			Early Roman					
+Thessaloniki		Archeological Site							Archeologic	Not Specified					40.63	40.63	22.95	22.95									1400	1200	Years AD (+/-)																																			Byzantine					
+Greece		Region					WALTON (1989)								35	39.1	22.8	26.6																																																			
+Czech Republic		Region					OGISHIMA ET AL. (2000)								47	47	18	18																																																			
+Greece		Region					WALTON (1984)								37.9	38	22.9	23.7			Europe																																											Corinth.					
+Greece		Region					AITKEN ET AL. (1989)								37	41.1	21.3	24.3																																																			
+Greece		Region					KOVACHEVA ET AL. (2000)								35.3	40.8	21.4	25.1																																																			
+Buhwa															-20.60095	-20.60082	30.28298	30.28405																																																			
+location-3		Outcrop					10.1016/J.QUASCIREV.2014.11.021		Extrusive	Basalt					38.6129	38.6129	28.7943	28.7943									1.2	1.4	Ma																																								
+location-7		Outcrop					10.1016/J.QUASCIREV.2014.11.021		Extrusive	Basalt					38.6353	38.6353	28.766	28.766									1.2	1.4	Ma																																								
+location-4		Outcrop					10.1016/J.QUASCIREV.2014.11.021		Extrusive	Basalt					38.6129	38.6129	28.7943	28.7943									1.2	1.4	Ma																																								
+location-5		Outcrop					10.1016/J.QUASCIREV.2014.11.021		Extrusive	Basalt					38.6103	38.6103	28.7717	28.7717									1.2	1.4	Ma																																								
+Italy		Region					10.1016/J.EPSL.2005.12.038								38.47	38.47	14.95	14.95			Europe																																											Lipari.					
+Turkey		Region					10.1111/J.1475-4754.1967.TB00609.X								37.8	37.8	32.5	32.5			Europe																																											�atal H�y�k.					
+Czech Republic		Region					10.1111/J.1475-4754.1967.TB00608.X								48.8	50.6	13.3	17			Europe																																											Vestonice.					
+Egypt		Region					10.1038/310305A0								26	30.96	27.65	33			Africa																																											Tell el-Dab a.					
+Greece		Region					10.1038/310305A0								34.7	34.9	32.6	33.8			Europe																																											Kition.					
+Egypt		Region					WALTON (1986)								27.4	27.4	31.2	31.2			Africa																																											Armana.					
+Italy		Region					EVANS (1986)								39.7	40.39	16.4	16.69			Europe																																																
+Greece		Region					WALTON (1990)								35	39.1	22.8	26.6			Europe																																																
+Hungary		Region					BURLATSKAYA ET AL. (1986)								47.7	47.7	19.5	19.5			Europe																																																
+Greece		Region					10.1029/RG026I001P00003								35.2	35.2	25.1	25.1			Europe																																											Crete.					
+Italy		Region					10.1029/RG026I001P00003								40.4	40.4	16.7	16.7			Europe																																											Bernalda.					
+Greece		Region					LIRITZIS & THOMAS (1980)								35.05	39.33	20.9	26.27																																																			
+Greece		Region					SPATHARAS ET AL. (2000)								40.8	40.8	23.8	23.8			Europe																																											Amfipolis.					
+Greece		Region					WALTON & BALHATCHET (1988)								37.9	38	22.9	23.7			Europe																																											Athens 1.					
+Finland		Region					PESONEN ET AL. (1995)								60.1	63	20.1	25.7			Europe																																											Kurikka.					
+Greece		Region					THOMAS (1983)								40.3	40.3	23.5	23.5			Europe																																																
+Hungary		Region					BURLATSKAYA ET AL. (1986)								47.5	47.5	19.08	19.08																																																			
+location-13		Outcrop					10.1130/L575.1		Intrusive	Granite					37.12909	37.12909	25.21331	25.21331									5.3	16	Ma																																								
+location-9		Outcrop					10.1029/2009TC002620		Sedimentary	Marls					41.2	41.2	32.2	32.2									56	66	Ma																																								
+location-12		Outcrop					10.1029/2009TC002620		Sedimentary	Clay					41.3	41.3	31.5	31.5									83.7	89.4	Ma																																								
+location-30		Outcrop					10.1029/2009TC002620		Sedimentary	Mudstone					41.2	41.2	31.5	31.5									33.9	56	Ma																																								
+location-32		Outcrop					10.1029/2009TC002620		Sedimentary	Clay					41.6	41.6	32.3	32.3									33.9	56	Ma																																								
+location-33		Outcrop					10.1029/2009TC002620		Sedimentary	Marls					41.6	41.6	32.4	32.4									37.7	48.1	Ma																																								
+location-34		Outcrop					10.1029/2009TC002620		Sedimentary	Limestone					41.2	41.2	32.7	32.7									37.7	48.1	Ma																																								
+location-2		Outcrop					10.1016/J.QUASCIREV.2016.07.031		Extrusive	Basalt					38.6561	38.6561	28.6791	28.6791									1.2	1.4	Ma																																								
+location-4		Outcrop					10.1016/J.QUASCIREV.2016.07.031		Extrusive	Basalt					38.6561	38.6561	28.6791	28.6791									1.2	1.4	Ma																																								
+location-5		Outcrop					10.1016/J.QUASCIREV.2016.07.031		Extrusive	Basalt					38.6328	38.6328	28.67685	28.67685									1.2	1.4	Ma																																								
+location-0		Outcrop					10.5194/SE-5-611-2014		Sedimentary	Limestone					40.8	40.8	17.4	17.4									68.1	76.1	Ma																																								
+location-1		Outcrop					10.5194/SE-5-611-2014		Sedimentary	Limestone					41.26	41.26	16.35	16.35									121	129	Ma																																								
+location-2		Outcrop					10.5194/SE-5-611-2014		Sedimentary	Limestone					41	41	16.4	16.4									93.9	100	Ma																																								
+location-3		Outcrop					10.5194/SE-5-611-2014		Sedimentary	Limestone					40.6	40.6	17.1	17.1									66	72.1	Ma																																								
+location-4		Outcrop					10.5194/SE-5-611-2014		Sedimentary	Limestone					39.9	39.9	18.4	18.4									6	7.2	Ma																																								
+location-5		Outcrop					10.5194/SE-5-611-2014		Sedimentary	Redbeds					40	40	18.4	18.4									23	28.1	Ma																																								
+location-6		Outcrop					10.5194/SE-5-611-2014		Sedimentary	Limestone					41.3	41.3	16.3	16.3									133	140	Ma																																								
+location-7		Outcrop					10.5194/SE-5-611-2014		Sedimentary	Limestone					40.2	40.2	18	18									72	76	Ma																																								
+location-8		Outcrop					10.5194/SE-5-611-2014		Sedimentary	Limestone					40	40	18.5	18.5									33.9	37.9	Ma																																								
+location-0		Outcrop					10.1029/2009TC002620		Sedimentary	Clay					41.7	41.7	32.4	32.4									113.2	126.5	Ma																																								
+location-7		Outcrop					10.1029/2009TC002620		Sedimentary	Marls					41.3	41.3	32	32									33.9	56	Ma																																								
+location-8		Outcrop					10.1029/2009TC002620		Sedimentary	Limestone					41.2	41.2	32.2	32.2									66	83.7	Ma																																								
+location-10		Outcrop					10.1029/2009TC002620		Sedimentary	Limestone					41.3	41.3	31.5	31.5									83.7	89.4	Ma																																								
+location-11		Outcrop					10.1029/2009TC002620		Sedimentary	Limestone					41.3	41.3	31.6	31.6									83.7	89.4	Ma																																								
+location-13		Outcrop					10.1029/2009TC002620		Sedimentary	Clay					41.4	41.4	31.7	31.7									100.5	126.4	Ma																																								
+location-29		Outcrop					10.1029/2009TC002620		Sedimentary	Lime Oolite					41.2	41.2	31.9	31.9									66	72.2	Ma																																								
+location-31		Outcrop					10.1029/2009TC002620		Sedimentary	Marls					41.7	41.7	32.4	32.4									56	66	Ma																																								
+location-35		Outcrop					10.1029/2009TC002620		Sedimentary	Mudstone					41.2	41.2	32.6	32.6									48.1	56	Ma																																								
+location-41		Outcrop					10.1029/2009TC002620		Sedimentary	Limestone					41.7	41.7	32.4	32.4									83.7	89.4	Ma																																								
+location-42		Outcrop					10.1029/2009TC002620		Extrusive	Volcaniclastic					41.7	41.7	32.4	32.4									83.7	85.7	Ma																																								
+location-1		Outcrop					10.1029/2009TC002620		Sedimentary	Limestone					41.7	41.7	32.4	32.4									83.7	89.4	Ma																																								
+location-0		Outcrop					10.1016/J.QUASCIREV.2016.07.031		Extrusive	Basalt					38.6219	38.6219	28.7637	28.7637									1.2	1.4	Ma																																								
+location-1		Outcrop					10.1016/J.QUASCIREV.2016.07.031		Extrusive	Basalt					38.6253	38.6253	28.7407	28.7407									1.2	1.4	Ma																																								
+location-3		Outcrop					10.1016/J.QUASCIREV.2016.07.031		Extrusive	Basalt					38.6561	38.6561	28.6791	28.6791									1.2	1.4	Ma																																								
+Mount Etna		Stratigraphic Section					10.1029/2023GC011319		Extrusive	Basalt					15	37.796	15.057	36									0	0.01	Years AD (+/-)																																								
+Crete Greece KP102		Outcrop					10.1029/JB093IB02P01131								35.453	35.484	23.663	23.731			Europe	Greece	Crete																																									KP102  N-R.					
+Crete Greece KP402		Outcrop					10.1029/JB093IB02P01131								35.453	35.484	23.663	23.731			Europe	Greece	Crete																																									KP402  N-R.					
+Crete Greece KS02		Outcrop					10.1029/JB093IB02P01131								35.453	35.484	23.663	23.731			Europe	Greece	Crete																																									KS02  R-N.					
+Crete Greece KS05		Outcrop					10.1029/JB093IB02P01131								35.453	35.484	23.663	23.731			Europe	Greece	Crete																																									KS05  N-R.					
+Crete Greece KS06		Outcrop					10.1029/JB093IB02P01131								35.453	35.484	23.663	23.731			Europe	Greece	Crete																																									KS06  R-N.					
+Italy		Region					10.1111/J.1365-246X.2006.03150.X								40.83	46.03	8.85	16.27			Europe																																											Laghetti del Crestoso.					
+location-0		Outcrop					HINSBERGEN et al. (2010)		Sedimentary	Mudstone					36.4514	36.4514	29.8567	29.8567									16	23	Ma																																								
+location-1		Outcrop					HINSBERGEN et al. (2010)		Sedimentary	Mudstone					37.0473	37.0473	30.1425	30.1425									16	23	Ma																																								
+Ukraine		Outcrop							Igneous: Extrusive	Basalt: Tuff					51.093	51.244	26.016	26.086							568	20			Ma																																								
+Hungary		Outcrop	Metsek Mountains Volcanics : Plio-Pleistocene Basalts Hungary:Matra Mountains Volcanics	Plio-Pleistocene Basalts Hungary : 3072	a	DE-VGP : FS-H: LT-AF-Z : SO-NO :LP-DC3	10.1007/BF00875023		Extrusive	Basalt					46.1	48.2	17.1	20.1			Europe	Hungary	Hungary				0	3	Ma	0	182.4	-63.6	6.2		39.3			15	156		ND	ND	ND	R-	88.2	96.8	8.4	8.4		60	169.2													AF cleaning minimum dispersion.	ND		GPMDB[3072]		
+Hungary		Outcrop	Metsek Mountains Volcanics : Plio-Pleistocene Basalts Hungary:Matra Mountains Volcanics	Plio-Pleistocene Basalts Hungary : 3072	a	DE-VGP : FS-H: LT-AF-Z : SO-NO :LP-DC3	10.1007/BF00875023		Extrusive	Basalt					46.1	48.2	17.1	20.1			Europe	Hungary	Hungary				0	3	Ma	0	15.7	61.6	6.7		101.3			6			ND	ND	ND	R-	88.2	96.8	8.4	8.4		60	169.2													AF cleaning minimum dispersion.	ND		GPMDB[3072]		
+Hungary		Outcrop	Metsek Mountains Volcanics : Plio-Pleistocene Basalts Hungary:Matra Mountains Volcanics	Plio-Pleistocene Basalts Hungary : 3072	a	DE-VGP : FS-H: LT-AF-Z : SO-NO :LP-DC3	10.1007/BF00875023		Extrusive	Basalt					46.1	48.2	17.1	20.1			Europe	Hungary	Hungary				0	3	Ma	0	172.6	-64.1	9.1		32.8		r	9			ND	ND	ND	R-	88.2	96.8	8.4	8.4		60	169.2													AF cleaning minimum dispersion.	ND		GPMDB[3072]		
+Hungary		Outcrop	Metsek Mountains Volcanics : Plio-Pleistocene Basalts Hungary:Matra Mountains Volcanics	Matra Mountains Volcanics : 3073	a	DE-VGP : FS-H: LT-AF-Z : SO-NO :LP-DC3	10.1007/BF00875023		Extrusive	Basalt					46.1	48.2	17.1	20.1			Europe	Hungary	Hungary				7	12	Ma	0	182	-49.9	6.9		29.4			16	83		ND	ND	ND	Rc	73.1	194.2	7.8	7.8		69	168.9													AF cleaning minimum dispersion.	ND		GPMDB[3073]		
+Hungary		Outcrop	Metsek Mountains Volcanics : Plio-Pleistocene Basalts Hungary:Matra Mountains Volcanics	Matra Mountains Volcanics : 3073	a	DE-VGP : FS-H: LT-AF-Z : SO-NO :LP-DC3	10.1007/BF00875023		Extrusive	Basalt					46.1	48.2	17.1	20.1			Europe	Hungary	Hungary				7	12	Ma	0	13.8	49.1	18.8		17.5			5			ND	ND	ND	Rc	73.1	194.2	7.8	7.8		69	168.9													AF cleaning minimum dispersion.	ND		GPMDB[3073]		
+Hungary		Outcrop	Metsek Mountains Volcanics : Plio-Pleistocene Basalts Hungary:Matra Mountains Volcanics	Matra Mountains Volcanics : 3073	a	DE-VGP : FS-H: LT-AF-Z : SO-NO :LP-DC3	10.1007/BF00875023		Extrusive	Basalt					46.1	48.2	17.1	20.1			Europe	Hungary	Hungary				7	12	Ma	0	176.7	-49.8	6.9		45.4		r	11			ND	ND	ND	Rc	73.1	194.2	7.8	7.8		69	168.9													AF cleaning minimum dispersion.	ND		GPMDB[3073]		
+Hungary		Outcrop	Metsek Mountains Volcanics : Plio-Pleistocene Basalts Hungary:Matra Mountains Volcanics	Cserhat Mountains Volcanics : 3074	a	DE-VGP : FS-H: LT-AF-Z : SO-NO :LP-DC3	10.1007/BF00875023		Extrusive	Basalt					46.1	48.2	17.1	20.1			Europe	Hungary	Hungary				7	11	Ma	0	182.2	-60.7	8.9		107			4	28		ND	ND	ND	ND	83.8	183.5	12	12		100														AF cleaning minimum dispersion.	ND		GPMDB[3074]		
+Hungary		Outcrop	Metsek Mountains Volcanics : Plio-Pleistocene Basalts Hungary:Matra Mountains Volcanics	Metsek Mountains Volcanics : 3075	a	DE-DI : FS-H: LT-AF-Z : SO-NO :LP-DC3	10.1007/BF00875023		Extrusive	Basalt					46.1	48.2	17.1	20.1			Europe	Hungary	Hungary				130	140	Ma	0	205	-62.8	13.4		33.4			5	27		ND	ND	ND	R-	72.3	105.5	16.5	21		80	153.2													AF cleaning minimum dispersion.	ND		GPMDB[3075]		
+Hungary		Outcrop	Metsek Mountains Volcanics : Plio-Pleistocene Basalts Hungary:Matra Mountains Volcanics	Metsek Mountains Volcanics : 3075	a	DE-DI : FS-H: LT-AF-Z : SO-NO :LP-DC3	10.1007/BF00875023		Extrusive	Basalt					46.1	48.2	17.1	20.1			Europe	Hungary	Hungary				130	140	Ma	0	350.4	51.5	18		27			1			ND	ND	ND	R-	72.3	105.5	16.5	21		80	153.2													AF cleaning minimum dispersion.	ND		GPMDB[3075]		
+Hungary		Outcrop	Metsek Mountains Volcanics : Plio-Pleistocene Basalts Hungary:Matra Mountains Volcanics	Metsek Mountains Volcanics : 3075	a	DE-DI : FS-H: LT-AF-Z : SO-NO :LP-DC3	10.1007/BF00875023		Extrusive	Basalt					46.1	48.2	17.1	20.1			Europe	Hungary	Hungary				130	140	Ma	0	216.6	-63.7	9.7		90.3		r	4			ND	ND	ND	R-	72.3	105.5	16.5	21		80	153.2													AF cleaning minimum dispersion.	ND		GPMDB[3075]		
+Turkey		Outcrop	Anatolia Volcanics	Anatolia Volcanics : 3009	a	DE-VGP : FS-H : LP-DC3 : LT-AF-Z : LT-T-Z : SO-SM:GM-CC	10.1016/0031-9201(68)90038-1		Extrusive	Extrusives			Anatolia Volcanics		35.9	40	28.7	48.3			Middle-East	Turkey	Turkey				0	4	Ma	0	357.4	54.4	5.8					26	160		ND	ND	ND	Rc	86.6	162.3	19.5	7		27	174.4													Brunhes Matuyama Epochs mainly sampled. AF to 34mT thermal to 564C. OP (TM Cl. 1-5 oxid. )  Js-T (CT 135-600C)  SUSC. N- Brunhes Epoch (GJ 10. 009) ; R- Matuyama Epoch (GJ 10. 010).	M		GPMDB[3009]		
+Turkey		Outcrop	Anatolia Volcanics	Anatolia Volcanics : 3009	a	DE-VGP : FS-H : LP-DC3 : LT-AF-Z : LT-T-Z : SO-SM:GM-CC	10.1016/0031-9201(68)90038-1		Extrusive	Extrusives			Anatolia Volcanics		35.9	40	28.7	48.3			Middle-East	Turkey	Turkey				0	4	Ma	0	6.6	56	5.5					16			ND	ND	ND	Rc	86.6	162.3	19.5	7		27	174.4													Brunhes Matuyama Epochs mainly sampled. AF to 34mT thermal to 564C. OP (TM Cl. 1-5 oxid. )  Js-T (CT 135-600C)  SUSC. N- Brunhes Epoch (GJ 10. 009) ; R- Matuyama Epoch (GJ 10. 010).	M		GPMDB[3009]		
+Turkey		Outcrop	Anatolia Volcanics	Anatolia Volcanics : 3009	a	DE-VGP : FS-H : LP-DC3 : LT-AF-Z : LT-T-Z : SO-SM:GM-CC	10.1016/0031-9201(68)90038-1		Extrusive	Extrusives			Anatolia Volcanics		35.9	40	28.7	48.3			Middle-East	Turkey	Turkey				0	4	Ma	0	195.3	-53.5	13.8				r	6			ND	ND	ND	Rc	86.6	162.3	19.5	7		27	174.4													Brunhes Matuyama Epochs mainly sampled. AF to 34mT thermal to 564C. OP (TM Cl. 1-5 oxid. )  Js-T (CT 135-600C)  SUSC. N- Brunhes Epoch (GJ 10. 009) ; R- Matuyama Epoch (GJ 10. 010).	M		GPMDB[3009]		
+Limestones Krakow-Czestochowa Upland		Outcrop		Limestones Krakow-Czestochowa Upland	a	LP-DC4 : LP-DIR-AF:GM-FOSSIL	10.1016/0040-1951(87)90197-1		Sedimentary	Limestone					50.3	50.3	19.5	19.5			Europe	Poland	Poland				155	165	Ma	100	16.8	56.7	7.3		58			8	55						72.3	150.4	7.7	10.6		50	173.8																GPMDB[1802]		
+Limestones Krakow-Czestochowa Upland		Outcrop		Limestones Krakow-Czestochowa Upland	a	LP-DC4 : LP-DIR-AF:GM-FOSSIL	10.1016/0040-1951(87)90197-1		Sedimentary	Limestone					50.3	50.3	19.5	19.5			Europe	Poland	Poland				155	165	Ma		14.7	58.6	20.5		21.1			4							72.3	150.4	7.7	10.6		50	173.8																GPMDB[1802]		
+Limestones Krakow-Czestochowa Upland		Outcrop		Limestones Krakow-Czestochowa Upland	a	LP-DC4 : LP-DIR-AF:GM-FOSSIL	10.1016/0040-1951(87)90197-1		Sedimentary	Limestone					50.3	50.3	19.5	19.5			Europe	Poland	Poland				155	165	Ma		183.5	-56.9	14.1		43.7		r	4							72.3	150.4	7.7	10.6		50	173.8																GPMDB[1802]		
+Limestones Lower Subtatric Nappe		Outcrop		Limestones Lower Subtatric Nappe	a	LP-DC4 : LP-DIR-AF:GM-FOSSIL	10.1016/0040-1951(87)90197-1		Sedimentary	Limestone					49.3	49.3	19.8	19.8			Europe	Poland	Poland				151	168	Ma	100	22.3	59.1	4.3		198			7	330						71.7	132.2	4.8	6.4		14	169.6																GPMDB[1803]		
+Limestones Lower Subtatric Nappe		Outcrop		Limestones Lower Subtatric Nappe	a	LP-DC4 : LP-DIR-AF:GM-FOSSIL	10.1016/0040-1951(87)90197-1		Sedimentary	Limestone					49.3	49.3	19.8	19.8			Europe	Poland	Poland				151	168	Ma		19.6	59.7	3.8		309.7			6							71.7	132.2	4.8	6.4		14	169.6																GPMDB[1803]		
+Limestones Lower Subtatric Nappe		Outcrop		Limestones Lower Subtatric Nappe	a	LP-DC4 : LP-DIR-AF:GM-FOSSIL	10.1016/0040-1951(87)90197-1		Sedimentary	Limestone					49.3	49.3	19.8	19.8			Europe	Poland	Poland				151	168	Ma		216.5	-54.7	7.7		19		r	1							71.7	132.2	4.8	6.4		14	169.6																GPMDB[1803]		
+Hungary		Outcrop	Komlo Lacolith : Matra Cserhat Volcanics : Metsek Mountains Volcanics : Zempleni Mountains Volcanics:Balaton Basalts	Mean A001-A005 (normal)	a	FS-FD : LP-DC2 : LP-DIR : LT-AF-Z : SO-SIGHT-LM:GM-CC-STRAT	10.1111/J.1365-246X.1970.TB06749.X		Intrusive:Extrusive	Basalt			Balaton Basalts		46.9	48.4	17.4	21.6			Europe	Hungary	Hungary							100	14.9	52.3	5	4.983	238			5							72	152.9	4	5																Upper Pliocene to Pleistocene.					
+Hungary		Outcrop	Komlo Lacolith : Matra Cserhat Volcanics : Metsek Mountains Volcanics : Zempleni Mountains Volcanics:Balaton Basalts	Mean A006-A013 (reversed)	a	FS-FD : LP-DC2 : LP-DIR : LT-AF-Z : SO-SIGHT-LM:GM-CC-STRAT	10.1111/J.1365-246X.1970.TB06749.X		Intrusive:Extrusive	Basalt			Balaton Basalts		46.9	48.4	17.4	21.6			Europe	Hungary	Hungary							100	182.7	-65.3	12	76.83	22			8							88.1	91.2	20	16																Upper Pliocene to Pleistocene.					
+Hungary		Outcrop	Komlo Lacolith : Matra Cserhat Volcanics : Metsek Mountains Volcanics : Zempleni Mountains Volcanics:Balaton Basalts	Mean A001-A013	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z :GM-CC-STRAT	10.1111/J.1365-246X.1970.TB06749.X		Intrusive:Extrusive	Basalt			Balaton Basalts		46.9	48.4	17.4	21.6			Europe	Hungary	Hungary				1	3	Ma	0	8.9	60.5	8.1	12.565	27			13	136						81.7	144.7	9	12		62	165.6													Upper Pliocene to Pleistocene.			GPMDB[3027]		
+Hungary		Outcrop	Komlo Lacolith : Matra Cserhat Volcanics : Metsek Mountains Volcanics : Zempleni Mountains Volcanics:Balaton Basalts	Mean A001-A013	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z :GM-CC-STRAT	10.1111/J.1365-246X.1970.TB06749.X		Intrusive:Extrusive	Basalt			Balaton Basalts		46.9	48.4	17.4	21.6			Europe	Hungary	Hungary				1	3	Ma	0	14.9	52.3	5		238			5							81.7	144.7	9	12		62	165.6													Upper Pliocene to Pleistocene.			GPMDB[3027]		
+Hungary		Outcrop	Komlo Lacolith : Matra Cserhat Volcanics : Metsek Mountains Volcanics : Zempleni Mountains Volcanics:Balaton Basalts	Mean A001-A013	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z :GM-CC-STRAT	10.1111/J.1365-246X.1970.TB06749.X		Intrusive:Extrusive	Basalt			Balaton Basalts		46.9	48.4	17.4	21.6			Europe	Hungary	Hungary				1	3	Ma	0	182.7	-65.3	12		22		r	8							81.7	144.7	9	12		62	165.6													Upper Pliocene to Pleistocene.			GPMDB[3027]		
+Hungary		Outcrop	Komlo Lacolith : Matra Cserhat Volcanics : Metsek Mountains Volcanics : Zempleni Mountains Volcanics:Balaton Basalts	A05-C0001	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z :GM-CC-STRAT	10.1111/J.1365-246X.1970.TB06749.X		Intrusive:Extrusive	Basalt			Balaton Basalts		46.9	48.4	17.4	21.6			Europe	Hungary	Hungary				10	15	Ma	0	21.2	63.2	2.04	17.941	288			18							75.1	106.1	3	3		0														Upper Pliocene to Pleistocene.			GPMDB[3031]		
+Hungary		Outcrop	Komlo Lacolith : Matra Cserhat Volcanics : Metsek Mountains Volcanics : Zempleni Mountains Volcanics:Balaton Basalts	Mean D001-D013	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z :GM-CC-STRAT	10.1111/J.1365-246X.1970.TB06749.X		Intrusive:Extrusive	Basalt			Balaton Basalts		46.9	48.4	17.4	21.6			Europe	Hungary	Hungary				9	13	Ma	0	352.5	66.3	9.6	9.6591	26.4			10							85	298.6	13	16		40	173.6													Upper Pliocene to Pleistocene.			GPMDB[3028]		
+Hungary		Outcrop	Komlo Lacolith : Matra Cserhat Volcanics : Metsek Mountains Volcanics : Zempleni Mountains Volcanics:Balaton Basalts	Mean D001-D013	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z :GM-CC-STRAT	10.1111/J.1365-246X.1970.TB06749.X		Intrusive:Extrusive	Basalt			Balaton Basalts		46.9	48.4	17.4	21.6			Europe	Hungary	Hungary				9	13	Ma	0	356.1	68.5	11.7		33.9			6							85	298.6	13	16		40	173.6													Upper Pliocene to Pleistocene.			GPMDB[3028]		
+Hungary		Outcrop	Komlo Lacolith : Matra Cserhat Volcanics : Metsek Mountains Volcanics : Zempleni Mountains Volcanics:Balaton Basalts	Mean D001-D013	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z :GM-CC-STRAT	10.1111/J.1365-246X.1970.TB06749.X		Intrusive:Extrusive	Basalt			Balaton Basalts		46.9	48.4	17.4	21.6			Europe	Hungary	Hungary				9	13	Ma	0	168.2	-63	23.3		16.5		r	4							85	298.6	13	16		40	173.6													Upper Pliocene to Pleistocene.			GPMDB[3028]		
+Hungary		Outcrop	Komlo Lacolith : Matra Cserhat Volcanics : Metsek Mountains Volcanics : Zempleni Mountains Volcanics:Balaton Basalts	Mean E001-E013	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z :GM-CC-STRAT	10.1111/J.1365-246X.1970.TB06749.X		Intrusive:Extrusive	Basalt			Balaton Basalts		46.9	48.4	17.4	21.6			Europe	Hungary	Hungary				12	16	Ma	0	359.8	55.1	8.2	8.8002	40			9	72						77.8	200.7	8	12		89	168.1													Upper Pliocene to Pleistocene.			GPMDB[3029]		
+Hungary		Outcrop	Komlo Lacolith : Matra Cserhat Volcanics : Metsek Mountains Volcanics : Zempleni Mountains Volcanics:Balaton Basalts	Mean E001-E013	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z :GM-CC-STRAT	10.1111/J.1365-246X.1970.TB06749.X		Intrusive:Extrusive	Basalt			Balaton Basalts		46.9	48.4	17.4	21.6			Europe	Hungary	Hungary				12	16	Ma	0	349.8	46.1	1		999.9			1							77.8	200.7	8	12		89	168.1													Upper Pliocene to Pleistocene.			GPMDB[3029]		
+Hungary		Outcrop	Komlo Lacolith : Matra Cserhat Volcanics : Metsek Mountains Volcanics : Zempleni Mountains Volcanics:Balaton Basalts	Mean E001-E013	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z :GM-CC-STRAT	10.1111/J.1365-246X.1970.TB06749.X		Intrusive:Extrusive	Basalt			Balaton Basalts		46.9	48.4	17.4	21.6			Europe	Hungary	Hungary				12	16	Ma	0	179.8	-56.2	9.1		37.7		r	8							77.8	200.7	8	12		89	168.1													Upper Pliocene to Pleistocene.			GPMDB[3029]		
+Hungary		Outcrop	Komlo Lacolith : Matra Cserhat Volcanics : Metsek Mountains Volcanics : Zempleni Mountains Volcanics:Balaton Basalts	Overall ACDE (exclude D003 D007 E003 E011)	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z :GM-CC-STRAT	10.1111/J.1365-246X.1970.TB06749.X		Intrusive:Extrusive	Basalt			Balaton Basalts		46.9	48.4	17.4	21.6			Europe	Hungary	Hungary							100	2.2	61	4.8	31.8703	28			33							84.4	182.1	6	7																Upper Pliocene to Pleistocene.					
+Hungary		Outcrop	Komlo Lacolith : Matra Cserhat Volcanics : Metsek Mountains Volcanics : Zempleni Mountains Volcanics:Balaton Basalts	Mean B001-B011	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z :GM-CC-STRAT	10.1111/J.1365-246X.1970.TB06749.X		Intrusive:Extrusive	Basalt			Balaton Basalts		46.9	48.4	17.4	21.6			Europe	Hungary	Hungary				130	140	Ma	100	33.7	46.7	18.7	9.5506	6.9			11	94	20					62.5	256.2	16	24		36	142.5													Upper Pliocene to Pleistocene.			GPMDB[3030]		
+Hungary		Outcrop	Komlo Lacolith : Matra Cserhat Volcanics : Metsek Mountains Volcanics : Zempleni Mountains Volcanics:Balaton Basalts	Mean B001-B011	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z :GM-CC-STRAT	10.1111/J.1365-246X.1970.TB06749.X		Intrusive:Extrusive	Basalt			Balaton Basalts		46.9	48.4	17.4	21.6			Europe	Hungary	Hungary				130	140	Ma	100	333.7	46.7	18.7		6.9	0.64		11		20					62.5	256.2	16	24		36	142.5													Upper Pliocene to Pleistocene.			GPMDB[3030]		
+Hungary		Outcrop	Komlo Lacolith : Matra Cserhat Volcanics : Metsek Mountains Volcanics : Zempleni Mountains Volcanics:Balaton Basalts	Mean B001-B011	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z :GM-CC-STRAT	10.1111/J.1365-246X.1970.TB06749.X		Intrusive:Extrusive	Basalt			Balaton Basalts		46.9	48.4	17.4	21.6			Europe	Hungary	Hungary				130	140	Ma	0	43.3	79.2	14.6		10.8			11		20					62.5	256.2	16	24		36	142.5													Upper Pliocene to Pleistocene.			GPMDB[3030]		
+Hungary		Outcrop	Komlo Lacolith : Matra Cserhat Volcanics : Metsek Mountains Volcanics : Zempleni Mountains Volcanics:Balaton Basalts	Mean B001-B011	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z :GM-CC-STRAT	10.1111/J.1365-246X.1970.TB06749.X		Intrusive:Extrusive	Basalt			Balaton Basalts		46.9	48.4	17.4	21.6			Europe	Hungary	Hungary				130	140	Ma	100	331.5	40.4	19.3		10.8			7		20					62.5	256.2	16	24		36	142.5													Upper Pliocene to Pleistocene.			GPMDB[3030]		
+Hungary		Outcrop	Komlo Lacolith : Matra Cserhat Volcanics : Metsek Mountains Volcanics : Zempleni Mountains Volcanics:Balaton Basalts	Mean B001-B011	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z :GM-CC-STRAT	10.1111/J.1365-246X.1970.TB06749.X		Intrusive:Extrusive	Basalt			Balaton Basalts		46.9	48.4	17.4	21.6			Europe	Hungary	Hungary				130	140	Ma	100	195.5	-30.3	78.8		2.4		r	4		20					62.5	256.2	16	24		36	142.5													Upper Pliocene to Pleistocene.			GPMDB[3030]		
+Italy		Region					NARDI ET AL. (2006)								40.98	40.98	14.85	14.85			Europe																																											Pioppi: Pratola Serra.					
+Mt Etna		Region					10.1016/0031-9201(94)90011-6								37.8	37.8	14.9	14.9			Europe		Italy																																														
+Calabria Italy Lower Nunivak		Outcrop					10.1016/0031-9201(88)90116-1								38.3	38.3	16.2	16.2			Europe	Italy																																										Trubi Formation Lower Nunivak R-N.					
+Calabria Italy Lower Sidufjall		Outcrop					10.1016/0031-9201(88)90116-1								38.3	38.3	16.2	16.2			Europe	Italy																																										Trubi Formation Lower Sidufjall R-N.					
+Calabria Italy Upper Sidufjall		Outcrop					10.1016/0031-9201(88)90116-1								38.3	38.3	16.2	16.2			Europe	Italy																																										Trubi Formation Upper Sidufjall N-R.					
+Calabria Italy Upper Thvera		Outcrop					10.1016/0031-9201(88)90116-1								38.3	38.3	16.2	16.2			Europe	Italy																																										Trubi Formation Upper Thvera N-R.					
+Greece		Region					TARLING & DOWNEY (1990)								35.05	36.38	24.74	26.29			Europe																																											Phaistos walls.					
+Janisjarvi impact structure Russia		Region					SALMINEN ET AL. (2006)								62	62	31	31			Europe		Russia																																														
+Bulgaria		Region					BURLATSKAYA ET AL. (1969)								42.5	43	23	27.5																																																			
+Czech Republic		Region					BURLATSKAYA ET AL. (1969)								50	52	20	21																																																			
+Ukraine		Region					BURLATSKAYA ET AL. (1969)								44	51.5	24	37																																																			
+Italy		Region					ROLPH & SHAW (1986)								37.7	37.7	15	15																																																			
+Bulgaria		Region					10.1016/S0031-9201(97)00015-0								41.2	45.2	17.5	28.6																																																			
+Bulgaria		Region					10.1016/J.PEPI.2004.02.012								41.83	41.83	25.32	25.32																																														Kovachevo'.					
+Italy		Region					10.1016/S0012-821X(03)00186-9								37.75	40.82	14.25	15			Europe																																											Etna.					
+Bulgaria		Region					KOVACHEVA (2002)								41.2	45.2	17.5	28.6																																																			
+Moldavia		Region					RUSAKOV & ZAGNIY (1970)								46.5	49	26.5	31.5																																																			
+Ukraine		Region					RUSAKOV & ZAGNIY (1970)								45.5	50.5	28.5	36.5																																																			
+Italy		Region					SHERWOOD (1991)								37.75	40.82	14.25	15			Europe																																											Etna.					
+Italy		Region					EVANS & MARESCHAL (1986)								40.6	40.6	17.1	17.1			Europe																																											Near Potenza.					
+Czech Republic		Region					BURLATSKAYA ET AL. (1986)								48.8	52	15.3	21																																																			
+Georgia		Region					BURLATSKAYA ET AL. (1986)								41.7	50.3	20.5	44.8																																																			
+Hungary		Region					BURLATSKAYA ET AL. (1986)								42.3	42.3	21.2	21.2																																																			
+Russia		Region					BURLATSKAYA ET AL. (1986)								46.5	59.8	20	135																																																			
+Ukraine		Region					BURLATSKAYA ET AL. (1986)								44.8	59.5	20.4	39.1																																																			
+South Harghita Mountains		Region		South Harghita_1	a	LP-DIR-AF : LP-DIR-T:LP-DC5	10.111/J.1365-246X.2012.05394.X		Igneous:Extrusive	Dacite : Shoshonite:Andesite	Eurasian Plate			Continental Volcanics	46.04	46.37	25.65	25.96				Romania					0.5	4.3	Ma																89.6	58.5			5.6																				
+South Harghita Mountains		Region		South Harghita_2	a	LP-DIR-AF : LP-DIR-T:LP-DC5	10.111/J.1365-246X.2012.05394.X		Igneous:Extrusive	Dacite : Shoshonite:Andesite	Eurasian Plate			Continental Volcanics	46.04	46.37	25.65	25.96				Romania					2	4.3	Ma																85.5	310.1			5.6																				
+South Harghita Mountains		Region		Persani	a	LP-DIR-AF : LP-DIR-T:LP-DC5	10.111/J.1365-246X.2012.05394.X		Igneous:Extrusive	Dacite : Shoshonite:Andesite	Eurasian Plate			Continental Volcanics	46.04	46.37	25.65	25.96				Romania					0.6	1.2	Ma																84.6	57.5			7.5																				
+Greece		Region					EVANS & MARESCHAL (1988)								34.94	37.92	22.7	26.28			Europe																																											Palaikastro: Crete.					
+Hungary		Region					10.1111/J.1365-246X.1986.TB00656.X								46.3	47.5	16.6	20.73			Europe																																											Gorzsa.					
+Ukraine		Region					RUSAKOV & ZAGNIY (1973)								45.5	50.5	26.5	36.5																																																			
+Italy		Region					ANGELINO ET AL. (1996)								37.75	37.75	15	15			Europe																																											Etna.					
+SE Sicily		Outcrop		GPMDB: 2366	a	DE-DI : FS-H: LT-AF-Z : SO-NO :LP-DC2	GREGOR ET AL. (1975)		Extrusive	Extrusives		Sicily			36.673	36.71	15.086	15.136			Europe	Italy	Sicily				2.6	5.3	Ma	0	161	-50	8.3		12.8			19	93		ND	ND	ND	R-	73	269	8.8	13.1		89	161.4													Turonian. Superseded study. AF cleaning 15-30mT. OP (TM MAGH ILM intergrowths).	M		GPMDB[2366]		
+SE Sicily		Outcrop		GPMDB: 2366	a	DE-DI : FS-H: LT-AF-Z : SO-NO :LP-DC2	GREGOR ET AL. (1975)		Extrusive	Extrusives		Sicily			36.673	36.71	15.086	15.136			Europe	Italy	Sicily				2.6	5.3	Ma	0	332.6	63	22		131.1			2			ND	ND	ND	R-	73	269	8.8	13.1		89	161.4													Turonian. Superseded study. AF cleaning 15-30mT. OP (TM MAGH ILM intergrowths).	M		GPMDB[2366]		
+SE Sicily		Outcrop		GPMDB: 2366	a	DE-DI : FS-H: LT-AF-Z : SO-NO :LP-DC2	GREGOR ET AL. (1975)		Extrusive	Extrusives		Sicily			36.673	36.71	15.086	15.136			Europe	Italy	Sicily				2.6	5.3	Ma	0	172.9	-48.2	10.1		13.3		r	17			ND	ND	ND	R-	73	269	8.8	13.1		89	161.4													Turonian. Superseded study. AF cleaning 15-30mT. OP (TM MAGH ILM intergrowths).	M		GPMDB[2366]		
+SE Sicily		Outcrop		GPMDB: 2367	a	DE-DI : FS-H: LT-AF-Z : SO-NO :LP-DC2	GREGOR ET AL. (1975)		Extrusive	Extrusives		Sicily			36.673	36.71	15.086	15.136			Europe	Italy	Sicily				89	94	Ma	0	162.9	-30.1	9.8		22.5			15	88		ND	ND	ND	ND	64	236	5	9.2		100														Turonian. Superseded study. AF cleaning 15-30mT. OP (TM MAGH ILM intergrowths). Data included in RESULTNO 1464. Superseded study.	M		GPMDB[2367]		
+Russia		Region					SHCHERBAKOVA ET AL. (2006)								61.3	61.3	31.9	31.9				Russia																																															
+Cerveny Kopec Czech Republic		Outcrop					10.1007/BF01626585								49.3	49.3	16.5	16.5			Europe	Czech Republic																																										Cerveny Kopec Matuyama-Brunhes R-N.					
+Austria		Region					10.1144/GSL.SP.1996.105.01.34								47.73	47.73	16.52	16.52																																														Drassburg'.					
+Hungary		Region					10.1144/GSL.SP.1996.105.01.34								45.92	48.3	16.58	22.52																																														Sopron-Krautacker dulo'.					
+Italy		Region					CALVO ET AL. (2002)								37.7	37.7	15	15			Europe																																											Etna.					
+Italy		Region					ROLPH ET AL. (1987)								37.5	37.5	15	15			Europe																																											Etna.					
+Krems Austria		Stratigraphic Section					KOCI & SIBRAVA (1976)								48.5	48.5	15.6	15.6			Europe	Austria																																										Krems Matuyama-Brunhes R-N.					
+Hungary		Region					MARTON (1991)								46.5	48	16.5	18.07			Europe																																											Fenekpuszta.					
+Egypt		Region					HUSSAIN (1983)								24	30.8	30.6	32.8			Africa																																																
+Italy		Region					LATORRE ET AL. (1998)								41.25	41.25	15.3	15.3																																														Treglia: Pontelatore'.					
+Bulgaria		Region					KOVACHEVA & NACHEVA-KALCHEVA (1975)								43.2	43.2	26.7	26.7			Europe																																											Ovacharovo.					
+Bulgaria		Region					10.1016/J.PEPI.2007.04.006								42.2	42.2	20.88	20.88																																														Halka Bunar'.					
+Germany		Region					SCHNEPP & LANOS (2006)								46.67	48.41	14.56	16.84			Europe																																											Semlach 1.					
+Latvia		Region					TARKHOV (1965)								57	57	24	24			Europe																																																
+Lithuania		Region					TARKHOV (1965)								54.7	54.9	24	25.5			Europe																																																
+Italy		Region					10.1038/318453A0								37.96	38.73	13.29	15.49			Europe																																											Santa Maria di Mili: Sicily.					
+Hungary		Region					10.1046/J.1365-246X.2003.01931.X								46.3	48.3	16.62	21.78			Europe																																											Szombathely.					
+central Libya		Outcrop	Haruj Assuad Volcanics	1 (flows 1 to 5)	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z : SO-NO :GM-KAR	10.1139/E74-096		Extrusive	Basalt			Haruj Assuad Volcanics		27.25	28.5	17	18			Africa	Libya	Libya				0.4	2.2	Ma	100	194	-33	8.4		56				5						74	140	5.4	9.5																					
+central Libya		Outcrop	Haruj Assuad Volcanics	2 (flows 6 & 7)	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z : SO-NO :GM-KAR	10.1139/E74-096		Extrusive	Basalt			Haruj Assuad Volcanics		27.25	28.5	17	18			Africa	Libya	Libya				0.4	2.2	Ma	100	6	32	11.3		76				2						78	166	7.2	12.8																					
+central Libya		Outcrop	Haruj Assuad Volcanics	3 (flow 8)	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z : SO-NO :GM-KAR	10.1139/E74-096		Extrusive	Basalt			Haruj Assuad Volcanics		27.25	28.5	17	18			Africa	Libya	Libya				0.4	2.2	Ma	100	181	-21	2.4		765				1						72	194	1.3	2.6																					
+central Libya		Outcrop	Haruj Assuad Volcanics	4 (flow 9)	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z : SO-NO :GM-KAR	10.1139/E74-096		Extrusive	Basalt			Haruj Assuad Volcanics		27.25	28.5	17	18			Africa	Libya	Libya				0.4	2.2	Ma	100	178	-46	11.9		23				1						87	260	9.7	15.2																					
+central Libya		Outcrop	Haruj Assuad Volcanics	5 (flows 10 to 21)	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z : SO-NO :GM-KAR	10.1139/E74-096		Extrusive	Basalt			Haruj Assuad Volcanics		27.25	28.5	17	18			Africa	Libya	Libya				0.4	2.2	Ma	100	177	-37	3.6		150				10						83	221	2.5	4.3																					
+central Libya		Outcrop	Haruj Assuad Volcanics	6 (flow 22)	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z : SO-NO :GM-KAR	10.1139/E74-096		Extrusive	Basalt			Haruj Assuad Volcanics		27.25	28.5	17	18			Africa	Libya	Libya				0.4	2.2	Ma	100	340	70	1.3		1200				1						60	352	3	3.5																					
+central Libya		Outcrop	Haruj Assuad Volcanics	7 (flows 23 to 57)	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z : SO-NO :GM-KAR	10.1139/E74-096		Extrusive	Basalt			Haruj Assuad Volcanics		27.25	28.5	17	18			Africa	Libya	Libya				0.4	2.2	Ma	100	195	-54	1.6		226				35						75	74	1.6	2.2																					
+central Libya		Outcrop	Haruj Assuad Volcanics	8 (flow 58)	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z : SO-NO :GM-KAR	10.1139/E74-096		Extrusive	Basalt			Haruj Assuad Volcanics		27.25	28.5	17	18			Africa	Libya	Libya				0.4	2.2	Ma	100	1	41	1		2949				1						85	185	0.8	1.2																					
+central Libya		Outcrop	Haruj Assuad Volcanics	9 (plug 59)	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z : SO-NO :GM-KAR	10.1139/E74-096		Extrusive	Basalt			Haruj Assuad Volcanics		27.25	28.5	17	18			Africa	Libya	Libya				0.4	2.2	Ma	100									1																														
+central Libya		Outcrop	Haruj Assuad Volcanics	10 (flow 60)	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z : SO-NO :GM-KAR	10.1139/E74-096		Extrusive	Basalt			Haruj Assuad Volcanics		27.25	28.5	17	18			Africa	Libya	Libya				0.4	2.2	Ma	100	10	46	3.3		285				1						81	110	2.7	4.2																					
+central Libya		Outcrop	Haruj Assuad Volcanics	11 (flow 61)	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z : SO-NO :GM-KAR	10.1139/E74-096		Extrusive	Basalt			Haruj Assuad Volcanics		27.25	28.5	17	18			Africa	Libya	Libya				0.4	2.2	Ma	100	10	19	1.6		1198				1						69	167	0.9	1.7																					
+central Libya		Outcrop	Haruj Assuad Volcanics	(flow 62)	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z : SO-NO :GM-KAR	10.1139/E74-096		Extrusive	Basalt			Haruj Assuad Volcanics		27.25	28.5	17	18			Africa	Libya	Libya				0.4	2.2	Ma	100	191	-37	2.3		633				1						77	150	1.6	2.7																					
+central Libya		Outcrop	Haruj Assuad Volcanics	12 (flows 63/64/65/67)	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z : SO-NO :GM-KAR	10.1139/E74-096		Extrusive	Basalt			Haruj Assuad Volcanics		27.25	28.5	17	18			Africa	Libya	Libya				0.4	2.2	Ma	100	5	31	2.2		994				4						78	173	1.4	2.5																					
+central Libya		Outcrop	Haruj Assuad Volcanics	13 (flow 66)	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z : SO-NO :GM-KAR	10.1139/E74-096		Extrusive	Basalt			Haruj Assuad Volcanics		27.25	28.5	17	18			Africa	Libya	Libya				0.4	2.2	Ma	100	354	47	4.6		146				1						85	284	3.9	1.9																					
+central Libya		Outcrop	Haruj Assuad Volcanics	14 (flows (?) 68-70)	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z : SO-NO :GM-KAR	10.1139/E74-096		Extrusive	Basalt			Haruj Assuad Volcanics		27.25	28.5	17	18			Africa	Libya	Libya		6	0.1			Ma	100	174	-19	1.7		2367				3						71	216	0.9	1.7																					
+central Libya		Outcrop	Haruj Assuad Volcanics	Mean for all temporally independent directions	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z : SO-NO :GM-KAR	10.1139/E74-096		Extrusive	Basalt			Haruj Assuad Volcanics		27.25	28.5	17	18			Africa	Libya	Libya				0.4	6	Ma	0	3	38	7.2		27				14						83	171	5	8.5		50	174.5																GPMDB[2611]		
+central Libya		Outcrop	Haruj Assuad Volcanics	Mean for all temporally independent directions	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z : SO-NO :GM-KAR	10.1139/E74-096		Extrusive	Basalt			Haruj Assuad Volcanics		27.25	28.5	17	18			Africa	Libya	Libya				0.4	6	Ma	0	3.1	41	13.2		22			7							83	171	5	8.5		50	174.5																GPMDB[2611]		
+central Libya		Outcrop	Haruj Assuad Volcanics	Mean for all temporally independent directions	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z : SO-NO :GM-KAR	10.1139/E74-096		Extrusive	Basalt			Haruj Assuad Volcanics		27.25	28.5	17	18			Africa	Libya	Libya				0.4	6	Ma	0	183.7	-35.5	10.8		32		r	7							83	171	5	8.5		50	174.5																GPMDB[2611]		
+central Libya		Outcrop	Haruj Assuad Volcanics	Mean of pole positions for independent directions	a	FS-FD: LP-DC2 : LP-DIR : LT-AF-Z : SO-NO :GM-KAR	10.1139/E74-096		Extrusive	Basalt			Haruj Assuad Volcanics		27.25	28.5	17	18			Africa	Libya	Libya				0.4	6	Ma	100									14						84	169																							
+Hyblean Plateau Sicily		Outcrop		Normal Pliocene flows	a	FS-FD : LP-DIR : LT-AF-Z : LT-T-Z : SO-MAG:LP-DC3	10.1016/0040-1951(83)90298-6		Intrusive:Extrusive	Extrusives:Intrusives		Sicily	Hyblean Plateau Volcanics		36.68	37.38	14.683	15.333			Europe	Italy	Sicily				1.8	5.3	Ma	100	358.3	48.6	11.4		19			10							83.2	205.6																		Underlies Maastrichtian limestones. Superseded study.					
+Hyblean Plateau Sicily		Outcrop		Reversed Pliocene flows	a	FS-FD : LP-DIR : LT-AF-Z : LT-T-Z : SO-MAG:LP-DC3	10.1016/0040-1951(83)90298-6		Intrusive:Extrusive	Extrusives:Intrusives		Sicily	Hyblean Plateau Volcanics		36.68	37.38	14.683	15.333			Europe	Italy	Sicily				1.8	5.3	Ma	100	174.7	-62.4	3.3		86			23							82.3	344.7																		Underlies Maastrichtian limestones. Superseded study.					
+Hyblean Plateau Sicily		Outcrop		Mean Pliocene	a	FS-FD : LP-DIR : LT-AF-Z : LT-T-Z : SO-MAG:LP-DC3	10.1016/0040-1951(83)90298-6		Intrusive:Extrusive	Extrusives:Intrusives		Sicily	Hyblean Plateau Volcanics		36.68	37.38	14.683	15.333			Europe	Italy	Sicily				1.8	5.3	Ma	0	356.9	59.6	5		26			33							85.9	339.3	5.7	7.5		70	166.1													Underlies Maastrichtian limestones. Superseded study.			GPMDB[1466]		
+Hyblean Plateau Sicily		Outcrop		Mean Pliocene	a	FS-FD : LP-DIR : LT-AF-Z : LT-T-Z : SO-MAG:LP-DC3	10.1016/0040-1951(83)90298-6		Intrusive:Extrusive	Extrusives:Intrusives		Sicily	Hyblean Plateau Volcanics		36.68	37.38	14.683	15.333			Europe	Italy	Sicily				1.8	5.3	Ma	0	358.3	48.6	11.4		19			10							85.9	339.3	5.7	7.5		70	166.1													Underlies Maastrichtian limestones. Superseded study.			GPMDB[1466]		
+Hyblean Plateau Sicily		Outcrop		Mean Pliocene	a	FS-FD : LP-DIR : LT-AF-Z : LT-T-Z : SO-MAG:LP-DC3	10.1016/0040-1951(83)90298-6		Intrusive:Extrusive	Extrusives:Intrusives		Sicily	Hyblean Plateau Volcanics		36.68	37.38	14.683	15.333			Europe	Italy	Sicily				1.8	5.3	Ma	0	174.7	-62.4	3.3		86		r	23							85.9	339.3	5.7	7.5		70	166.1													Underlies Maastrichtian limestones. Superseded study.			GPMDB[1466]		
+Hyblean Plateau Sicily		Outcrop		Barberi et al. (1974) - Pliocene	a	FS-FD : LP-DIR : LT-AF-Z : LT-T-Z : SO-MAG:LP-DC3	10.1016/0040-1951(83)90298-6		Intrusive:Extrusive	Extrusives:Intrusives		Sicily	Hyblean Plateau Volcanics		36.68	37.38	14.683	15.333			Europe	Italy	Sicily				1.8	5.3	Ma	0	356	48	10		24			10							81	219	9.1	13.9		28	170.3													Underlies Maastrichtian limestones. Superseded study.			GPMDB[1465]		
+Hyblean Plateau Sicily		Outcrop		Barberi et al. (1974) - Pliocene	a	FS-FD : LP-DIR : LT-AF-Z : LT-T-Z : SO-MAG:LP-DC3	10.1016/0040-1951(83)90298-6		Intrusive:Extrusive	Extrusives:Intrusives		Sicily	Hyblean Plateau Volcanics		36.68	37.38	14.683	15.333			Europe	Italy	Sicily				1.8	5.3	Ma	0	358.3	50.8	9.6		20			13							81	219	9.1	13.9		28	170.3													Underlies Maastrichtian limestones. Superseded study.			GPMDB[1465]		
+Hyblean Plateau Sicily		Outcrop		Barberi et al. (1974) - Pliocene	a	FS-FD : LP-DIR : LT-AF-Z : LT-T-Z : SO-MAG:LP-DC3	10.1016/0040-1951(83)90298-6		Intrusive:Extrusive	Extrusives:Intrusives		Sicily	Hyblean Plateau Volcanics		36.68	37.38	14.683	15.333			Europe	Italy	Sicily				1.8	5.3	Ma	0	180.6	-41.2	29.1		8		r	5							81	219	9.1	13.9		28	170.3													Underlies Maastrichtian limestones. Superseded study.			GPMDB[1465]		
+Hyblean Plateau Sicily		Outcrop		Gregor et al. (1975) - Pliocene	a	FS-FD : LP-DIR : LT-AF-Z : LT-T-Z : SO-MAG:LP-DC3	10.1016/0040-1951(83)90298-6		Intrusive:Extrusive	Extrusives:Intrusives		Sicily	Hyblean Plateau Volcanics		36.68	37.38	14.683	15.333			Europe	Italy	Sicily				1.8	5.3	Ma	100	161	-50	8.3		22			19							73	271	8.8	13.1																Underlies Maastrichtian limestones. Superseded study.					
+Hyblean Plateau Sicily		Outcrop		Overall Pliocene mean	a	FS-FD : LP-DIR : LT-AF-Z : LT-T-Z : SO-MAG:LP-DC3	10.1016/0040-1951(83)90298-6		Intrusive:Extrusive	Extrusives:Intrusives		Sicily	Hyblean Plateau Volcanics		36.68	37.38	14.683	15.333			Europe	Italy	Sicily				1.8	5.3	Ma	100	351	52.8	12.6		96.2										81.7	260																		Underlies Maastrichtian limestones. Superseded study.					
+Hyblean Plateau Sicily		Outcrop		Norma Miocene flows	a	FS-FD : LP-DIR : LT-AF-Z : LT-T-Z : SO-MAG:LP-DC3	10.1016/0040-1951(83)90298-6		Intrusive:Extrusive	Extrusives:Intrusives		Sicily	Hyblean Plateau Volcanics		36.68	37.38	14.683	15.333			Europe	Italy	Sicily				5.3	11.6	Ma	100	358.3	50.8	9.6		20			13							84.2	209																		Underlies Maastrichtian limestones. Superseded study.					
+Hyblean Plateau Sicily		Outcrop		Reversed Miocene flows	a	FS-FD : LP-DIR : LT-AF-Z : LT-T-Z : SO-MAG:LP-DC3	10.1016/0040-1951(83)90298-6		Intrusive:Extrusive	Extrusives:Intrusives		Sicily	Hyblean Plateau Volcanics		36.68	37.38	14.683	15.333			Europe	Italy	Sicily				5.3	11.6	Ma	100	180.6	-41.2	29.1		8			5							76.5	192.2																		Underlies Maastrichtian limestones. Superseded study.					
+Hyblean Plateau Sicily		Outcrop		Mean Miocene	a	FS-FD : LP-DIR : LT-AF-Z : LT-T-Z : SO-MAG:LP-DC3	10.1016/0040-1951(83)90298-6		Intrusive:Extrusive	Extrusives:Intrusives		Sicily	Hyblean Plateau Volcanics		36.68	37.38	14.683	15.333			Europe	Italy	Sicily				5.3	11.6	Ma	100	359	48.3	9.4		15			18							82.1	200.9	8.1	12.3																Underlies Maastrichtian limestones. Superseded study.					
+Hyblean Plateau Sicily		Outcrop		Schult (1973) - Cretaceous	a	FS-FD : LP-DIR : LT-AF-Z : LT-T-Z : SO-MAG:LP-DC3	10.1016/0040-1951(83)90298-6		Intrusive:Extrusive	Extrusives:Intrusives		Sicily	Hyblean Plateau Volcanics		36.68	37.38	14.683	15.333			Europe	Italy	Sicily				70.7	84.1	Ma	100	167	-22	7.1		22.8			19							62.1	223.3																		Underlies Maastrichtian limestones. Superseded study.					
+Hyblean Plateau Sicily		Outcrop		Barberi et al. (1974) - Cretaceous	a	FS-FD : LP-DIR : LT-AF-Z : LT-T-Z : SO-MAG:LP-DC3	10.1016/0040-1951(83)90298-6		Intrusive:Extrusive	Extrusives:Intrusives		Sicily	Hyblean Plateau Volcanics		36.68	37.38	14.683	15.333			Europe	Italy	Sicily				70.7	84.1	Ma	100	165	-26	7		62			8							63	229	4.1	7.6																Underlies Maastrichtian limestones. Superseded study.					
+Hyblean Plateau Sicily		Outcrop		Gregor et al. (1975) - Cretaceous	a	FS-FD : LP-DIR : LT-AF-Z : LT-T-Z : SO-MAG:LP-DC3	10.1016/0040-1951(83)90298-6		Intrusive:Extrusive	Extrusives:Intrusives		Sicily	Hyblean Plateau Volcanics		36.68	37.38	14.683	15.333			Europe	Italy	Sicily				70.7	84.1	Ma	100	162.9	-30.1	9.8		13			15							64	236	5	9.2																Underlies Maastrichtian limestones. Superseded study.					
+Hyblean Plateau Sicily		Outcrop		Mean Cretaceous	a	FS-FD : LP-DIR : LT-AF-Z : LT-T-Z : SO-MAG:LP-DC3	10.1016/0040-1951(83)90298-6		Intrusive:Extrusive	Extrusives:Intrusives		Sicily	Hyblean Plateau Volcanics		36.68	37.38	14.683	15.333			Europe	Italy	Sicily				70.7	84.1	Ma	0	173.6	-31.2	7.4		36			12							69.3	212.3	4.6	8.3		100														Underlies Maastrichtian limestones. Superseded study.			GPMDB[1463]		
+Hyblean Plateau Sicily		Outcrop		Overall Mean	a	FS-FD : LP-DIR : LT-AF-Z : LT-T-Z : SO-MAG:LP-DC3	10.1016/0040-1951(83)90298-6		Intrusive:Extrusive	Extrusives:Intrusives		Sicily	Hyblean Plateau Volcanics		36.68	37.38	14.683	15.333			Europe	Italy	Sicily				70.7	84.1	Ma	0	167.3	-27.6	4.3		22			52							65.2	225.1	2.6	4.7		100														Underlies Maastrichtian limestones. Superseded study.			GPMDB[1464]		
+Persani Mountains		Region		PVmean	a	GM-CC-STRAT : LP-DC5 : LP-DIR-AF : LP-DIR-T:GM-ARAR	10.1016/J.PEPI.2013.06.007		Intrusive:Igneous	Basaltic Lava	Eurasian Plate			Continental Volcanics	45.9	46.1	25.3	25.4			Europe	Romania					600	1200	Ka	100	11.1	72.5	2.6		2237			3							73.4	49.3																							
+Persani Mountains		Region		BAQmean	a	GM-CC-STRAT : LP-DC5 : LP-DIR-AF : LP-DIR-T:GM-ARAR	10.1016/J.PEPI.2013.06.007		Intrusive:Igneous	Basaltic Lava	Eurasian Plate			Continental Volcanics	45.9	46.1	25.3	25.4			Europe	Romania					600	1200	Ka	100	220.3	-54	3.7		320			6							-57.6	301.5																							
+Persani Mountains		Region		BQmean	a	GM-CC-STRAT : LP-DC5 : LP-DIR-AF : LP-DIR-T:GM-ARAR	10.1016/J.PEPI.2013.06.007		Intrusive:Igneous	Basaltic Lava	Eurasian Plate			Continental Volcanics	45.9	46.1	25.3	25.4			Europe	Romania					600	1200	Ka	100	228.3	-50.9	5.5		283			4							-50.6	305.3																							
+Calabria Italy Upper Nunivak		Stratigraphic Section					LINSSEN (1991)								38.3	38.3	16.2	16.2			Europe	Italy																																										Monte Singa Upper Nunivak N-R.					
+Corfu Greece Lower Sidufjall		Stratigraphic Section					LINSSEN (1991)								39.77	39.77	19.66	19.66			Europe	Greece																																										Avliotes Lower Sidufjall R-N.					
+Corfu Greece Upper Thvera		Stratigraphic Section					LINSSEN (1991)								39.77	39.77	19.66	19.66			Europe	Greece																																										Aghios Upper Thvera N-R.					
+Hungary		Region					MARTON & GOMORI (1986)								47.1	47.1	18.3	18.3			Europe																																											Tac.					
+Bulgaria		Region					KOVACHEVA & TOSHKOV (1991)								42.3	43.6	22.65	354.5																																														Jambol'.					
+Italy		Region					KOVACHEVA & TOSHKOV (1991)								40.4	40.4	16.7	16.7																																														Basilicata'.					
+Yugoslavia		Region					KOVACHEVA & TOSHKOV (1991)								42.7	42.7	21.2	21.2																																														Pavlikeni'.					
+Carpathia		Region					MIKHAYLOVA ET AL. (1974)								49	49	24	24			Europe		Russia																																														
+Italy		Region					EVANS & MARESCHAL (1987)								37.8	40.7	12.5	17.9			Europe																																											Metapontum: temple.					
+Bulgaria		Region					PETROVA ET AL. (1980)								43.2	43.4	25.2	25.3			Europe		Bulgaria																																														
+Mt Etna		Region					HILL & SHAW (1999)								37.75	37.75	14.99	14.99			Europe	Italy																																										Etna / Sicily.					
+Italy		Region					10.1016/J.PEPI.2005.02.002								37.38	41.41	12.5	17.9			Europe																																											Salapia.					
+Egypt		Region					10.1007/BF00878614								29.5	30	30.6	31			Africa																																																
+Greece		Region					10.1017/S006824540002102X								35.3	35.3	25.16	25.16			Europe																																											Knossos Kiln 2.					
+Italy		Region					10.1016/S1251-8050(00)87211-0								37.75	37.75	15	15			Europe																																											Etna.					
+Greece		Region					10.1016/J.PEPI.2006.06.005								34.95	40.8	21.61	26.28			Europe																																											Vassiliki.					
+Bulgaria		Region					10.1016/J.JAS.2004.03.019								42.7	42.7	7.6	23.2																																														Serdica'.					
+Lipari		Outcrop		6375	a	DE-DI : FS-FD : LP-DC4 : LT-AF-Z : LT-T-Z : SO-SM:GM-KAR	10.1111/J.1365-246X.1991.TB01167.X		Extrusive	Dacite: Rhyolite :Basalt			Lipari Volcanics		38.44	38.52	14.9	14.98			Europe	Italy	Lipari Island				0	223	Ka	0	356.6	54.9	4.5		28.3			37	269		ND	ND	ND	ND	85.9	237.5	4.5	6.4		0														AF to 100mT thermal to 580C univectorial. IRM (sat. 0. 2T)  SUSC OP (TM).	M		GPMDB[6375]		
+Hungary		Region					10.1111/J.1365-246X.2006.02873.X								47.2	48.06	17.17	23.09			Europe																																											Sajopetri.					
+Moldavia		Region					10.1111/J.1475-4754.1973.TB00084.X								46	48	27	29			Asia																																																
+Ukraine		Region					10.1111/J.1475-4754.1973.TB00084.X								28.5	50.5	26.5	36.5			Asia																																																
+Bulgaria		Region					10.1111/J.1475-4754.1969.TB00635.X								42.5	42.5	23	23			Europe																																																
+Czech Republic		Region					10.1111/J.1475-4754.1969.TB00635.X								50	52	20	21			Europe																																											Igolomiia.					
+Ukraine		Region					10.1111/J.1475-4754.1969.TB00635.X								44	51.5	24	37			Asia																																											Shameni-Hinisli.					
+Greece		Region					10.1111/J.1475-4754.1967.TB00624.X								37.9	37.9	24.9	24.9			Europe																																											Corinth.					
+Romania		Region					10.1111/J.1475-4754.1967.TB00624.X								44.6	44.6	28.8	28.8			Europe																																											Histria.					
+Italy		Region					10.1046/J.1365-246X.2002.01672.X								37.75	40.82	14.25	15			Europe																																											Etna.					
+Austria		Region					10.1111/J.1365-246X.2006.02944.X								47.52	47.52	14.83	14.83			Europe																																											Eisenerz.					
+50		Region	Lower Silesia Volcanics				http://earthref.org/ERDA/2428/		Igneous : Intrusive : Extrusive	Intrusives : Extrusives					50.5	50.5	16.5	16.5									299	307	Ma																																								
+45		Region	Lower Silesia Volcanics				http://earthref.org/ERDA/2428/		Igneous :  Extrusive	Extrusives					51	51	15.5	15.5									271	299	Ma																																								
+55		Region	Krakow Volcanics				http://earthref.org/ERDA/2429/		Igneous :  Extrusive	Extrusives					50	50	20	20									271	299	Ma																																								
+31		Region	Jebel Nehoud Ring Complex				10.1016/S0899-5362(02)00006-4		Igneous : Intrusive	Intrusives					14.899999618530273	14.899999618530273	30.5	30.5									278	282	Ma																																								
+Etna		Region					10.1029/96JB02115								37.76	37.76	14.99	14.99																																																			
+Helsinki		Archeological Site					10.1016/J.PEPI.2007.10.002								60.171	60.171	24.938	24.938	0	0	Europe	Finland																																															
+Skouriotissa Vouppes		Archeological Site					10.1002/2014GC005455		Archeologic	Not Specified					35.0526	35.0526	32.8555	32.8555									353.6	448.7	Years Cal AD (+/-)																																								
+H001		Archeological Site	H001/87			DE-FM		HUNGARY	Archeologic	Not Specified					46.23	46.23	20.28	20.28			Europe	Hungary		Deszk			1500.0	-1000.0	Years AD (+/-)																																							0000-0002-3763-3616	
+H002		Archeological Site	H002/87			DE-FM		HUNGARY	Archeologic	Not Specified					46.23	46.23	20.28	20.28			Europe	Hungary		Deszk			1500.0	-1000.0	Years AD (+/-)																																							0000-0002-3763-3616	
+EGYPT		Archeological Site				DE-FM:GM-NO			Archeologic	Not Specified					25.9	25.9	32.5	32.5			Africa	Egypt					-20000.0	-8000.0	Years AD (+/-)																																							0000-0002-2250-3747	
+9		Region	Romania				10.1111/j.1365246X.2012.05394.x		Igneous	Not Specified	Eurasian Plate				46.2	46.2	25.78	25.78									0.4	4.42	Ma																							45.9	25.03	67															
+10		Region	Romania				10.1016/j.pepi.2013.06.007		Igneous	Not Specified	Eurasian Plate				45.96	45.96	25.35	25.35									0.535	1.14	Ma																							45.87	25.12	2															
+19		Region	Azores				10.1130/B30933.1		Igneous	Not Specified	Somali Plate				38.59	38.59	331.22	331.22									0.002	0.008	Ma																							38.59	331.22	12															
+20		Region	Italy				10.1016/S0031-9201(96)03221-9		Igneous	Not Specified	Eurasian Plate				38.38	38.38	14.97	14.97									0.1	0.135	Ma																							38.37	14.95	39															
+"Lake Ladoga Northwestern Russia"	 3 : 7 : 8:1 	Outcrop		grand mean	s		10.1111/J.1365-246X.2008.03859.X		 Intrusive:Igneous 	Dolerite					61.59	61.59	30.7	30.7				Russia					1430	1450	ka	100	35.5	-22.1	9.7		90.3			4	208						11.8	175	5.4	10.3	7.5																				
+"Lake Ladoga Northwestern Russia"	 3 : 7 : 8:1 	Outcrop		Wilson's method: 1	s	 LP-MC-I: LP-MW-Z :LP-PI-TRM 	10.1111/J.1365-246X.2008.03859.X		 Intrusive:Igneous 	Dolerite					61.59	61.59	30.7	30.7				Russia					1430	1450	ka																										2.50E+22	2.00E+21				1.02E-05	9.00E-07		6	Wilson's method for paleointensity.					
+"Lake Ladoga Northwestern Russia"	 3 : 7 : 8:1 	Outcrop		Wilson's method: 8	s	 LP-MC-I: LP-MW-Z :LP-PI-TRM 	10.1111/J.1365-246X.2008.03859.X		 Intrusive:Igneous 	Dolerite					61.59	61.59	30.7	30.7				Russia					1430	1450	ka																										2.30E+22	2.00E+21				9.40E-06	9.00E-07		6	Wilson's method for paleointensity.					
+"Lake Ladoga Northwestern Russia"	 3 : 7 : 8:1 	Outcrop		Wilson's method: 3	s	 LP-MC-I: LP-MW-Z :LP-PI-TRM 	10.1111/J.1365-246X.2008.03859.X		 Intrusive:Igneous 	Dolerite					61.59	61.59	30.7	30.7				Russia					1430	1450	ka																										1.80E+22	2.00E+21				7.50E-06	8.00E-07		6	Wilson's method for paleointensity.					
+"Lake Ladoga Northwestern Russia"	 3 : 7 : 8:1 	Outcrop		Wilson's method: 7	s	 LP-MC-I: LP-MW-Z :LP-PI-TRM 	10.1111/J.1365-246X.2008.03859.X		 Intrusive:Igneous 	Dolerite					61.59	61.59	30.7	30.7				Russia					1430	1450	ka																										3.40E+22	1.00E+21				1.45E-05	5.00E-07		19	Wilson's method for paleointensity.					
+Czech Republic		Region					10.1038/215697A0		Intrusive:Extrusive:Igneous 	Granite					50.1	50.6	12.8	16.3			Europe		Czech Republic				0.01	300	ka																																								
+Italy		Region					10.1016/0012-821X(75)90043-6		Igneous:Archeologic	Not Specified					37.7	40.7	14	15			Europe						1950	1301	Years AD (+/-)																																			Ischia.					
+"Vulcano Italy"		Region		8193	a	DE-VGP:FS-FD:LT-T-Z:SO-SM:LP-DC4	10.1016/S0031-9201(96)03221-9		Extrusive:Igneous 	Tephrite:Andesite:Not Specified					38.37	38.43	14.94	15.01			Europe		Italy				0	1	Ma	0	9.3	52.2	3.7		28.4			54	231		ND	ND	ND	ND	80.7	137.2	5	5		0														"Thermal to 580C characteristic component. SUSC; Js-T (CT 450-580C) ; HYST."	M		GPMDB[8193]		
+Berestovets		Outcrop							Igneous	Basalt			Volyn Basalt Province		50.873	50.873	26.303	26.303			Europe	Ukraine			559		545	580	Ma																																								@dthal
+Basaltovoe		Outcrop							Igneous	Basalt			Volyn Basalt Province		50.915	50.915	26.236	26.236			Europe	Ukraine			559		545	580	Ma																																								@dthal
+C8262		Core							Igneous	Basalt			Volyn Basalt Province		51.663	51.663	24.585	24.585			Europe	Ukraine			567		545	589	Ma																																								@dthal
+CK3		Core							Igneous	Basalt			Volyn Basalt Province		51.695	51.695	24.405	24.405			Europe	Ukraine			567		545	589	Ma																																								@dthal
+Policy-2		Outcrop							Igneous	Basalt			Volyn Basalt Province		51.244	51.244	26.016	26.016			Europe	Ukraine			561		547	574	Ma																																								@dthal
+Rafalovka		Outcrop							Igneous	Basalt			Volyn Basalt Province		51.235	51.235	26.046	26.046			Europe	Ukraine			580		571	589	Ma																																								@dthal
+C4596		Core							Igneous	Basalt			Volyn Basalt Province		51.674	51.674	24.657	24.657			Europe	Ukraine			567		545	589	Ma																																								@dthal
+C4594		Core							Igneous	Basalt			Volyn Basalt Province		51.708	51.708	24.592	24.592			Europe	Ukraine			567		545	589	Ma																																								@dthal
+C8265		Core							Igneous	Basalt			Volyn Basalt Province		51.671	51.671	24.525	24.525			Europe	Ukraine			567		545	589	Ma																																								@dthal
+Hoting Gabbro		Outcrop				LP-PI-TRM:LP-PI-ALT-PTRM:LP-PI-BT-MD:LP-PI-BT-IZZI:IE-TT	10.1016/J.EPSL.2011.07.005		Igneous:Intrusive	Gabbro					64.16223	64.16223	16.27052	16.27052									1.786	1.786	Ga																																								
+Timna 28		Archeological Site				LP-PI-TRM	Ben-Yosef et al. 2008:10.1016/J.EPSL.2009.12.022		Synthetic:Archeologic	Not Specified					34.984	34.984	29.716	29.716	150	150	Asia	Israel					2010	2010	Years AD (+/-)																																								
+location-0		Outcrop					HINSBERGEN et al. (2010)		Sedimentary	Mudstone					36.4514	36.4514	29.8567	29.8567									16	23	Ma																																								
+location-1		Outcrop					HINSBERGEN et al. (2010)		Sedimentary	Mudstone					37.0473	37.0473	30.1425	30.1425									16	23	Ma																																								
+Cyprus		Submarine Site					Granot et al. 2007		Submarine	Gabbro					33.0538	34.5826	32.4726	34.5406							92.1				Ma																																								
+Finland		Archeological Site				LP-PI-TRM	10.1016/j.pepi.2014.12.007:10.1002/2016GC006307		Extrusive:Igneous	Submarine Basaltic Glass					60.1	60.1	24.9	24.9									1843.0	2011.0	Years AD (+/-)																																								
+cyprus		Region					10.1038/29746		Igneous:Extrusive:Submarine	Basalt					35	35	33.0	33.0				Cyprus					6.4	156.5	Ma																																								
+Troodos Ophiolite	tg004 : tg006 : tg009 : tg010 : tg015 : tg020 : tg021 : tg022 : tg026 : tg027 : tg028 : tg030 : tg031 : tg032 : tg034 : tg035 : tg036 : tg037 : tg038 : tg040 : tg049 : tg051 : tg052 : tg053 : tg054 : tg056 : tg057 : tg058 : tg062 : tg068 : tg072 : tg073 : tg077:tg002	Outcrop		Average V[A]DM	a		10.1029/2003GC000635		Extrusive:Igneous	Basalt	African Plate				35.18034	34.9902	32.48417	33.24889							91.6	4.33e-14			Ma																												8.12e+22	4.13e+22	34	3.66e-05	1.86e-05	50.8	34	Average of all V [A] DMs.		IE-SITE			Lisa Tauxe
+location-0		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					36.839	36.839	32.491	32.491									246.7	249.9	Ma																																								
+location-1		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					36.845	36.845	32.503	32.503									251.9	254.2	Ma																																								
+location-2		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.98	37.98	31.442	31.442									100.5	143.1	Ma																																								
+location-3		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.372	37.372	31.87	31.87									161.5	174.7	Ma																																								
+location-4		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.978	37.978	31.437	31.437									74.95	93.9	Ma																																								
+location-5		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.979	37.979	31.439	31.439									66	93.9	Ma																																								
+location-6		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.98	37.98	31.441	31.441									93.9	100.5	Ma																																								
+location-7		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.985	37.985	31.443	31.443									143.1	161.5	Ma																																								
+location-8		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.986	37.986	31.444	31.444									143.1	161.5	Ma																																								
+location-9		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.988	37.988	31.445	31.445									143.1	161.5	Ma																																								
+location-10		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.991	37.991	31.447	31.447									161.5	170.9	Ma																																								
+location-11		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.992	37.992	31.447	31.447									168.2	170.9	Ma																																								
+location-12		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					36.835	36.835	32.487	32.487									246.7	249.9	Ma																																								
+location-13		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					36.916	36.916	32.4	32.4									330.3	359.3	Ma																																								
+location-14		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.301	37.301	31.892	31.892									37.7	48.1	Ma																																								
+location-15		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.305	37.305	31.889	31.889									66	89.4	Ma																																								
+location-16		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.307	37.307	31.888	31.888									89.4	100.5	Ma																																								
+location-17		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.312	37.312	31.888	31.888									100.5	113.2	Ma																																								
+location-18		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.316	37.316	31.885	31.885									113.2	126.5	Ma																																								
+location-19		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.322	37.322	31.881	31.881									121.4	137.7	Ma																																								
+location-20		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.327	37.327	31.879	31.879									126.5	137.7	Ma																																								
+location-21		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.331	37.331	31.877	31.877									126.5	137.7	Ma																																								
+location-22		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.332	37.332	31.876	31.876									126.5	137.7	Ma																																								
+location-23		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.335	37.335	31.875	31.875									126.5	154.8	Ma																																								
+location-24		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.339	37.339	31.873	31.873									132.6	154.8	Ma																																								
+location-25		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.342	37.342	31.887	31.887									132.6	154.8	Ma																																								
+location-26		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.346	37.346	31.88	31.88									132.6	154.8	Ma																																								
+location-27		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.359	37.359	31.881	31.881									132.6	154.8	Ma																																								
+location-28		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.362	37.362	31.879	31.879									132.6	154.8	Ma																																								
+location-29		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.364	37.364	31.875	31.875									137.7	154.8	Ma																																								
+location-30		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.364	37.364	31.872	31.872									137.7	168.2	Ma																																								
+location-31		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.366	37.366	31.871	31.871									161.5	170.9	Ma																																								
+location-32		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.369	37.369	31.867	31.867									168.2	170.9	Ma																																								
+location-33		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.37	37.37	31.862	31.862									170.9	174.7	Ma																																								
+location-34		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.245	37.245	31.923	31.923									56	66	Ma																																								
+location-35		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.263	37.263	31.92	31.92									72.2	100.5	Ma																																								
+location-36		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.366	37.366	31.873	31.873									143.1	174.7	Ma																																								
+location-37		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.373	37.373	31.87	31.87									161.5	174.7	Ma																																								
+location-38		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.369	37.369	31.865	31.865									161.5	174.7	Ma																																								
+location-39		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.372	37.372	31.86	31.86									161.5	174.7	Ma																																								
+location-40		Outcrop					Meijers et al. (2011)		Sedimentary	Limestone					37.381	37.381	31.865	31.865									201.4	237	Ma																																								
+Moon		Lunar							Lunar	Basalt					-8.97	20.19	336.58	30.77									2	3.94	Ga																																								
+Velika		Archeological Site					10.1016/J.PEPI.2021.106749		Archeologic	Clay					39.73	39.73	22.85	22.85				Greece			550	50	500	600	Years AD (+/-)																																								
+location-3		Outcrop					10.1144/0016-76492006-061		Sedimentary	Marls					36.13	36.13	27.78	27.78									2.9	3.2	Ma																																								
+location-2		Outcrop					10.1144/0016-76492006-061		Sedimentary	Marls					36.03	36.03	27.78	27.78									3.6	4.3	Ma																																								
+location-4		Outcrop					10.1029/2018TC005152		Sedimentary	Limestone					36.8351	36.8351	32.092	32.092									33.9	56	Ma																																								
+location-0		Outcrop					10.1029/2018TC005152		Sedimentary	Limestone					37.2635	37.2635	32.3209	32.3209									33.9	56	Ma																																								
+location-1		Outcrop					10.1029/2018TC005152		Sedimentary	Limestone					37.3716	37.3716	31.3919	31.3919									33.9	56	Ma																																								
+location-2		Outcrop					10.1029/2018TC005152		Sedimentary	Limestone					36.8854	36.8854	32.1302	32.1302									33.9	56	Ma																																								
+location-3		Outcrop					10.1029/2018TC005152		Sedimentary	Limestone					37.1318	37.1318	31.5637	31.5637									33.9	56	Ma																																								
+location-5		Outcrop					10.1029/2018TC005152		Sedimentary	Limestone					37.3714	37.3714	31.4378	31.4378									33.9	56	Ma																																								
+location-6		Outcrop					10.1029/2018TC005152		Sedimentary	Limestone					37.9806	37.9806	31.0661	31.0661									33.9	56	Ma																																								
+Elephantine		Archeological Site					ODAH (2004)								24.08	24.08	32.88	32.88				Egypt																																															
+Karnak		Archeological Site					ODAH (2004)								25.72	25.72	32.9	32.9				Egypt																																															
+Habu		Archeological Site					ODAH (2004)								25.72	25.72	32.6	32.6				Egypt																																															
+Ramesseum		Archeological Site					ODAH (2004)								25.75	25.75	32.6	32.6				Egypt																																															
+location-1		Outcrop					10.1016/J.EPSL.2010.04.052		Igneous	Volcaniclastic					41.7	41.7	32.4	32.4									83.5	85.9	Ma																																								
+location-0		Outcrop					10.1016/J.EPSL.2010.04.052		Sedimentary	Limestone					41.7	41.7	32.4	32.4									83.5	89.3	Ma																																								
+location-2		Outcrop					10.1016/J.EPSL.2010.04.052		Sedimentary	Limestone					40.1	40.1	28.9	28.9									155.7	164.7	Ma																																								
+location-3		Outcrop					10.1016/J.EPSL.2010.04.052		Sedimentary	Limestone					39.8	39.8	27.4	27.4									155.7	164.7	Ma																																								
+location-0		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.3862	41.3862	23.4203	23.4203									28	29	Ma																																								
+location-8		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					42.0173	42.0173	24.2603	24.2603									23	38	Ma																																								
+location-43		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.2542	41.2542	25.2561	25.2561									31	33	Ma																																								
+location-3		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.3854	41.3854	23.4218	23.4218									28	29	Ma																																								
+location-4		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.3832	41.3832	23.424	23.424									28	29	Ma																																								
+location-6		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.3817	41.3817	23.4354	23.4354									28	29	Ma																																								
+location-9		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					42.0173	42.0173	24.2603	24.2603									23	38	Ma																																								
+location-10		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					42.0169	42.0169	24.2604	24.2604									23	38	Ma																																								
+location-11		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.4102	41.4102	24.094	24.094									23	38	Ma																																								
+location-12		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.4102	41.4102	24.094	24.094									23	38	Ma																																								
+location-13		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.4103	41.4103	24.0922	24.0922									23	38	Ma																																								
+location-15		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.4131	41.4131	24.092	24.092									23	38	Ma																																								
+location-21		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					43.1681	43.1681	25.1263	25.1263									19.4	24	Ma																																								
+location-22		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					43.2902	43.2902	25.1736	25.1736									19.4	24	Ma																																								
+location-38		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.2781	41.2781	25.2499	25.2499									31	33	Ma																																								
+location-41		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.2656	41.2656	25.2511	25.2511									31	33	Ma																																								
+location-33		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					42.0446	42.0446	25.245	25.245									31.5	35	Ma																																								
+location-34		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					42.0346	42.0346	25.2773	25.2773									31.5	35	Ma																																								
+location-39		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.2745	41.2745	25.2488	25.2488									31	33	Ma																																								
+location-42		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					41.2651	41.2651	25.2509	25.2509									31	33	Ma																																								
+location-27		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					42.0415	42.0415	25.2345	25.2345									31.5	35	Ma																																								
+location-28		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					42.0415	42.0415	25.2345	25.2345									31.5	35	Ma																																								
+location-29		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					42.0415	42.0415	25.2345	25.2345									31.5	35	Ma																																								
+location-30		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					42.0446	42.0446	25.245	25.245									31.5	35	Ma																																								
+location-31		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					42.0446	42.0446	25.245	25.245									31.5	35	Ma																																								
+location-35		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					42.0346	42.0346	25.2773	25.2773									31.5	35	Ma																																								
+location-37		Outcrop					10.1016/J.EPSL.2008.06.051		Extrusive	Basalt					42.0346	42.0346	25.2773	25.2773									31.5	35	Ma																																								
+Evrykhou		Outcrop				FS-FD:LP-AN-MS	10.1029/98jb01077		Igneous:Intrusive	Basalt					35.03298	35.03298	32.91051	32.91051									91	92	Ma																																								
+Kakopetria		Outcrop				FS-FD:LP-AN-MS	10.1029/98jb01077		Igneous:Intrusive	Basalt					34.99619	34.99619	32.92283	32.92283									91	92	Ma																																								
+Mandres		Outcrop				FS-FD:LP-AN-MS	10.1029/98jb01077		Igneous:Intrusive	Basalt					35.06857	35.06857	32.94628	32.94628									91	92	Ma																																								
+Canary Islands		Region					Quidelleur & Valet 1996								-17.8	-17.8	28.7	28.7			Atlantic Ocean		Canary Islands																																														
+Czech Republic		Region					Krsova et al. 1989								50.35	50.35	13.35	13.35			Europe		Czech Republic																																														
+Iceland		Region					Schweitzer & Soffel 1980								63.7	63.7	343.6	343.6			Atlantic Ocean		Iceland																																														
+Czech Republic		Region					BUCHA (1967)								48.8	50.6	13.3	17																																																			
+Slovakia		Region					10.5636/JGG.38.1279								48	50	18	20			Europe		Slovakia																																														
+Greece		Region					AITKEN ET AL. (1991)								38.5	38.5	24.2	24.2			Europe																																																
+Finland		Region					DONADINI (2007)								63.5	66.4	26.1	29.2			Europe																																											Ylikiiminki.					
+Finland		Region					AITKEN ET AL. (1991)								60.3	61	20.1	24.4			Europe																																																
+Estonia		Region					DONADINI (2007)								58.3	59.5	23.57	26.7			Europe																																											Muskyl�.					
+Greece		Region					NACHASOVA & BURAKOV (2002)								39.5	39.5	30	30																																																			
+Ukraine		Region					RUSAKOV & ZAGNIY (1973)								28.5	50.5	26.5	36.5																																																			
+Greece		Region					PAPAMARINOPOULOS (1987)								40.64	40.64	22.94	22.94			Europe																																																
+Egypt		Region					10.1016/0012-821X(69)90094-6								29.2	29.2	31.8	31.8			Africa																																											Afyeh.					
+Egypt		Region					10.1111/J.1365-246X.1980.TB02609.X								25.4	29.8	31	31			Africa																																											Gerzeh.					
+Italy		Region					SHAW (1974)								37.7	37.7	15	15																																																			
+Egypt		Region					ODAH ET AL. (1995)								24.1	32.8	13.1	33			Africa																																											Hiw / Naga Hamadi.					
+Egypt		Region					ODAH (1999)								26.2	29.9	30.7	31.9			Africa																																											Saqara / Giza.					
+Italy		Region					10.1016/J.EPSL.2007.03.017								37	37.759	14.996	15			Europe	Italy																																										Mt Etna.					
+Greece		Region					NACHASOVA & BURAKOV (2002)								39.5	39.5	30	30			Europe																																																
+apollo11		Lunar					10.1016/J.EPSL.2024.118757		Lunar	Basalt					0.67	0.67	23.47	23.47							3.71		3.51	3.91	Ga																																								
+Apollo 11		Lunar					10.1029/2023GL105152		Lunar	Basalt					0.67416	0.67416	23.47314	23.47314									3.72	3.72	Ga																																								
+Apollo 16		Lunar					10.1029/2023GL105152		Lunar	Anorthosite					-8.9734	-8.9734	15.5011	15.5011									1.5	2.3	Ma																																								
+Finland		Region							Archeologic	Not specified					60.1	60.1	24.9	24.9									1906	1906	Years ad (+/-)																																								
+Mt. Etna															37.759	37.759	14.996	14.996									1950	1983																																									
+Bulgaria		Region					Petrova et al. 1980								43.2	43.2	25.2	25.2			Europe		Bulgaria																																														
+Carpathia		Region					Mikhaylova et al. 1974								49	49	24	24			Europe		Russia																																														
+Italy		Region					Laj et al. 1997								38.4	38.4	15.3	15.3			Europe		Italy																																														
+Slovakia		Region					Tunyi 1986								48	48	18	18			Europe		Slovakia																																														
+Troodos Ophiolite		Outcrop					Tauxe et al. 2004							Ophiolite	34.9957	34.9957	33.2248	33.2248			Europe	Cyprus	Eastern Mediterranean																																									Troodos Ophiolite on the island of Cyprus.					
+North Harguita (East Carpathians)		Outcrop				LP-DIR	10.1029/2024JB029502		Igneous:Extrusive	Not Specified					43.39	49.536	25.423	25.84							5.0				Ma																																								
+Azores (Portugal)		Outcrop				LP-DIR	10.1029/2024JB029502		Igneous:Extrusive	Not Specified					37.7158	38.612235	28.75523	334.8647							5.0				Ma																																								
+Vulcano Vecchio (Italy)		Outcrop				LP-DIR	10.1029/2024JB029502		Igneous:Extrusive	Not Specified					38.37	38.39	14.95	14.99							5.0				Ma																																								
+South Harghita Mountains (Romania)		Outcrop				LP-DIR	10.1029/2024JB029502		Igneous:Extrusive	Not Specified					46.048933	46.3641	25.649183	25.957328							5.0				Ma																																								
+Persani Mountains (Romania)		Outcrop				LP-DIR	10.1029/2024JB029502		Igneous:Extrusive	Not Specified					45.890317	46.0621	25.3026	25.409251							5.0				Ma																																								
+Italy		Region					10.1111/J.1365-246X.1974.TB05443.X		Igneous:Archeologic 	Not Specified					37.75	37.75	15	15			Europe				1910				Years AD (+/-)																																			Etna.					
+location-33		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.37	37.37	31.862	31.862									170.9	174.7	Ma																																								
+location-35		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.263	37.263	31.92	31.92									72.2	100.5	Ma																																								
+location-37		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.373	37.373	31.87	31.87									161.5	174.7	Ma																																								
+location-40		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.381	37.381	31.865	31.865									201.4	237	Ma																																								
+location-32		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.369	37.369	31.867	31.867									168.2	170.9	Ma																																								
+location-0		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					36.839	36.839	32.491	32.491									246.7	249.9	Ma																																								
+location-2		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.98	37.98	31.442	31.442									100.5	143.1	Ma																																								
+location-6		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.98	37.98	31.441	31.441									93.9	100.5	Ma																																								
+location-38		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.369	37.369	31.865	31.865									161.5	174.7	Ma																																								
+location-39		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.372	37.372	31.86	31.86									161.5	174.7	Ma																																								
+location-34		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.245	37.245	31.923	31.923									56	66	Ma																																								
+location-36		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.366	37.366	31.873	31.873									143.1	174.7	Ma																																								
+location-16		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.307	37.307	31.888	31.888									89.4	100.5	Ma																																								
+location-18		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.316	37.316	31.885	31.885									113.2	126.5	Ma																																								
+location-22		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.332	37.332	31.876	31.876									126.5	137.7	Ma																																								
+location-27		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.359	37.359	31.881	31.881									132.6	154.8	Ma																																								
+location-29		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.364	37.364	31.875	31.875									137.7	154.8	Ma																																								
+location-10		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.991	37.991	31.447	31.447									161.5	170.9	Ma																																								
+location-13		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					36.916	36.916	32.4	32.4									330.3	359.3	Ma																																								
+location-14		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.301	37.301	31.892	31.892									37.7	48.1	Ma																																								
+location-17		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.312	37.312	31.888	31.888									100.5	113.2	Ma																																								
+location-19		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.322	37.322	31.881	31.881									121.4	137.7	Ma																																								
+location-23		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.335	37.335	31.875	31.875									126.5	154.8	Ma																																								
+location-24		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.339	37.339	31.873	31.873									132.6	154.8	Ma																																								
+location-26		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.346	37.346	31.88	31.88									132.6	154.8	Ma																																								
+location-1		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					36.845	36.845	32.503	32.503									251.9	254.2	Ma																																								
+location-4		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.978	37.978	31.437	31.437									74.95	93.9	Ma																																								
+location-5		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.979	37.979	31.439	31.439									66	93.9	Ma																																								
+location-7		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.985	37.985	31.443	31.443									143.1	161.5	Ma																																								
+location-9		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.988	37.988	31.445	31.445									143.1	161.5	Ma																																								
+location-12		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					36.835	36.835	32.487	32.487									246.7	249.9	Ma																																								
+location-15		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.305	37.305	31.889	31.889									66	89.4	Ma																																								
+location-20		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.327	37.327	31.879	31.879									126.5	137.7	Ma																																								
+location-21		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.331	37.331	31.877	31.877									126.5	137.7	Ma																																								
+location-31		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.366	37.366	31.871	31.871									161.5	170.9	Ma																																								
+location-3		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.372	37.372	31.87	31.87									161.5	174.7	Ma																																								
+location-8		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.986	37.986	31.444	31.444									143.1	161.5	Ma																																								
+location-11		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.992	37.992	31.447	31.447									168.2	170.9	Ma																																								
+location-25		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.342	37.342	31.887	31.887									132.6	154.8	Ma																																								
+location-28		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.362	37.362	31.879	31.879									132.6	154.8	Ma																																								
+location-30		Outcrop					10.1111/J.1365-246X.2010.04919.X		Sedimentary	Limestone					37.364	37.364	31.872	31.872									137.7	168.2	Ma																																								
+Vrica		Outcrop							Sedimentary	Silty Claystone:Marine Marls					39	39	17.0	17.0				Italy					1.5	2.3	Ma																																								
+Crete Greece KP401		Outcrop					10.1029/JB093IB02P01131								35.453	35.484	23.663	23.731			Europe	Greece	Crete																																									KP401  R-N.					
+Zackinthos Greece ZM01rev		Outcrop					10.1029/JB093IB10P11655								37.76	37.76	20.79	20.79			Europe	Greece	Zackinthos																																									ZM01rev  N-R.					
+Zackinthos Greece ZM02		Outcrop					10.1029/JB093IB10P11655								37.76	37.76	20.79	20.79			Europe	Greece	Zackinthos																																									ZM02  R-N.					
+Zackinthos Greece ZM03		Outcrop					10.1029/JB093IB10P11655								37.76	37.76	20.79	20.79			Europe	Greece	Zackinthos																																									ZM03  N-R.					
+Siljan impact structure		Outcrop				LP-T:LP-NO:LP-AF	10.1029/2024GL114204		Sedimentary	Limestone					60.8838	61.1837	14.5857	15.2252							465		454	471	Ma																																								
+Bulgaria		Outcrop				LP-DIR	10.1016/j.epsl.2008.06.051		Igneous	Not Specified					41.2444	42.0446	23.4203	25.2773				Bulgaria					28.0	37.0	Ma																																								
+Åland dykes -R		Outcrop				LP-DIR	Pesonen (personal communication unpublished)		Igneous	Not Specified					60.1	60.1	20.7	20.7				Finland					1576	1576	Ma																																			Diabase and lamprophyre dykes taken into account baked rocks not considered.					
+Väster-Norrland dolerites		Outcrop				LP-DIR	Piper (1979)		Igneous	Not Specified					62.9	62.9	18.3	18.3				Sweden					1257	1257	Ma																																								
+Satakunta Subjotnian N-S and NE-SW dykes -N+R		Outcrop				LP-DIR	Salminen et al. (2014)		Igneous	Not Specified					62.0	62.0	21.5	21.5				Finland					1565	1565	Ma																																								
+Karelian dykes		Outcrop				LP-DIR	Mertanen et al. (1999)		Igneous	Not Specified					66.0	66.0	30.7	30.7				Russia					2458	2458	Ma																																								
+Mashonaland dolerites -N+R		Outcrop				LP-DIR	Bates & Jones (1996)		Igneous	Not Specified					-18.0	-18.0	32.0	32.0				Zimbabwe					1878	1878	Ma																																								
+Apollo11		Lunar					10.1029/2025JE009030		Lunar	Basalt					0.67	0.67	23.47	23.47							3.7		3.7	3.7	Ga																																								
+Apollo16		Lunar					10.1029/2025JE009030		Lunar	Breccia					-8.97	-8.97	15.5	15.5							3.9		2.3	2.3	Ma																																								
