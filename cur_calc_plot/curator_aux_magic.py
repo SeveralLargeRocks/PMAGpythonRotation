@@ -292,6 +292,8 @@ def cleaning(df,
 
     #Step 2: calculate A95 and K values based on Deenen et al., 2011 formula
     df_clean["lambda"] = ""
+    df_clean["lambda"] = pd.to_numeric(df_clean["lambda"], errors="coerce")
+
 
     if "K" not in df_clean.columns:
        df_clean["K"] = np.nan
