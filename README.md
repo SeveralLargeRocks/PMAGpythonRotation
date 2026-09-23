@@ -14,4 +14,4 @@ TO-DO list:
 -Fix allocations of R values for kriging stepo
 -For map creation make the display of kriging/voronoi be an option during creation not just hard coded in
 -Map creation druing plotter is VERY BROKEN
--
+-Change colours for plotted maps in PCS
