@@ -17,22 +17,6 @@ from pmagpy import pmag
 from scipy.optimize import brentq
 
 
-def average_locations(df, fisher_cols=["mdec", "minc", "k", "a95", "N"]):
-    """
-    Collapse multiple rows per (slat, slon) location into one row using Fisher summary statistics.
-    Metadata columns are preserved from the first row of each group.
-    
-    Parameters:
-        df : pd.DataFrame
-        fisher_cols : list of columns to combine with Fisher stats
-    
-    Returns:
-        pd.DataFrame with one row per location
-    """
-
-    # Ensure numeric columns
-    df[fisher_cols] = df[fisher_cols].apply(pd.to_numeric, errors="coerce")
-
 def quality_check_magic (df: pd.DataFrame) -> bool:
         comp_columns = ['site',
                         'lat',
@@ -235,7 +219,6 @@ def curate_ages(df):
 
 def cleaning(df,
             num_min_samples,
-            location_average,
             location_removal_threshold,
             estimate_missing_a95_k,
             fill_sites):
@@ -285,9 +268,6 @@ def cleaning(df,
 
     print("Averaging locations", df_clean.shape)
 
-    if location_average:
-        df_clean = average_locations(df_clean)
-
     df_clean = df_clean[pd.notna(df_clean['slat']) & pd.notna(df_clean['slon'])].copy()
 
     #Step 2: calculate A95 and K values based on Deenen et al., 2011 formula
@@ -333,7 +313,6 @@ def pole_and_rotation_export(df, p1, p2):
 
 def curator(df,
             num_min_samples,
-            location_average,
             location_removal_threshold,
             estimate_missing_a95_k,
             fill_sites,
@@ -357,7 +336,6 @@ def curator(df,
 
     tec_data=cleaning(tec_data,
             num_min_samples,
-            location_average,
             location_removal_threshold,
             estimate_missing_a95_k,
             fill_sites)
