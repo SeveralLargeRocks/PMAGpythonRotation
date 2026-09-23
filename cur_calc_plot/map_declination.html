@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_d0fdf97c3e3ff019fc8bb9738f042556 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+    <script src="https://cdn.jsdelivr.net/npm/leaflet-textpath@1.2.3/leaflet.textpath.min.js"></script>
+</head>
+<body>
+    
+    <div style='position: fixed; bottom: 50px; left: 50px; width: 180px; z-index:9999; font-size:14px;
+                        background-color: white; border:2px solid grey; border-radius:8px; padding: 10px;'>
+                        <b>Rotation Sense</b><br><i style='background:red;width:18px;height:18px;float:left;
+                        margin-right:8px;opacity:0.8;display:inline-block;'></i>CW (Clockwise)<br>
+                        <i style='background:blue;width:18px;height:18px;float:left;margin-right:8px;opacity:0.8;
+                        display:inline-block;'></i>CCW (Counterclockwise)<br></div>
+    
+            <div class="folium-map" id="map_d0fdf97c3e3ff019fc8bb9738f042556" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_d0fdf97c3e3ff019fc8bb9738f042556 = L.map(
+                "map_d0fdf97c3e3ff019fc8bb9738f042556",
+                {
+                    center: [57.50345345345345, -5.001601601601601],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 5,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_49cc2cf0582858de69d26a129db45a55 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_49cc2cf0582858de69d26a129db45a55.addTo(map_d0fdf97c3e3ff019fc8bb9738f042556);
+        
+    
+            var poly_line_609ce19549f72a0175416bda1aae3b53 = L.polyline(
+                [[55.5, -4.6], [54.52042475040066, -4.801077921145964]],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "black", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_d0fdf97c3e3ff019fc8bb9738f042556);
+        
+    
+        var popup_355236b2e85a62908728ed102a6861fd = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_bf9118987ca384a014ee9be48ec8ff15 = $(`<div id="html_bf9118987ca384a014ee9be48ec8ff15" style="width: 100.0%; height: 100.0%;">   <b>Dec:</b> 191.6<br>                                 <b>Inc:</b> 24.1<br>                                 <b>a95:</b> 18.2<br>                                 <b>k:</b> 18.5<br>                                 <b>Lat:</b> 55.5<br>                                 <b>Lon:</b> -4.6<br>                                 <b>Reference:</b> Harcombe-Smee et al. (1996)</div>`)[0];
+                popup_355236b2e85a62908728ed102a6861fd.setContent(html_bf9118987ca384a014ee9be48ec8ff15);
+            
+        
+
+        poly_line_609ce19549f72a0175416bda1aae3b53.bindPopup(popup_355236b2e85a62908728ed102a6861fd)
+        ;
+
+        
+    
+    
+            var circle_marker_485260d0dcebd0b327e9a8eda6ac46cb = L.circleMarker(
+                [55.5, -4.6],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "black", "fillOpacity": 0, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_d0fdf97c3e3ff019fc8bb9738f042556);
+        
+    
+        var popup_da8dd3324b511d66d07c82546b40758f = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_50bbd68118270f7f0d6aa1249f4ac8f7 = $(`<div id="html_50bbd68118270f7f0d6aa1249f4ac8f7" style="width: 100.0%; height: 100.0%;">   <b>Dec:</b> 191.6<br>                                 <b>Inc:</b> 24.1<br>                                 <b>a95:</b> 18.2<br>                                 <b>k:</b> 18.5<br>                                 <b>Lat:</b> 55.5<br>                                 <b>Lon:</b> -4.6<br>                                 <b>Reference:</b> Harcombe-Smee et al. (1996)</div>`)[0];
+                popup_da8dd3324b511d66d07c82546b40758f.setContent(html_50bbd68118270f7f0d6aa1249f4ac8f7);
+            
+        
+
+        circle_marker_485260d0dcebd0b327e9a8eda6ac46cb.bindPopup(popup_da8dd3324b511d66d07c82546b40758f)
+        ;
+
+        
+    
+    
+            poly_line_609ce19549f72a0175416bda1aae3b53.setText(
+                "\u27a4",
+                {
+  "repeat": false,
+  "center": false,
+  "below": false,
+  "offset": 0,
+  "orientation": 0,
+  "attributes": {
+  "font-size": "20",
+  "fill": "black",
+},
+}
+            );
+        
+    
+            var poly_line_8365e130e7e8332f4e608fb392f08f61 = L.polyline(
+                [[50.6, -3.4], [51.57154911999765, -3.163161853934381]],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "black", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_d0fdf97c3e3ff019fc8bb9738f042556);
+        
+    
+        var popup_fac65cda15b0134b94635acf92a9ab13 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a4df8a5b834e1fdbcedd05d78a4923e8 = $(`<div id="html_a4df8a5b834e1fdbcedd05d78a4923e8" style="width: 100.0%; height: 100.0%;">   <b>Dec:</b> 13.7<br>                                 <b>Inc:</b> 45.6<br>                                 <b>a95:</b> 3.4<br>                                 <b>k:</b> 22.0<br>                                 <b>Lat:</b> 50.6<br>                                 <b>Lon:</b> -3.4<br>                                 <b>Reference:</b> Hounslow et al. (2017)</div>`)[0];
+                popup_fac65cda15b0134b94635acf92a9ab13.setContent(html_a4df8a5b834e1fdbcedd05d78a4923e8);
+            
+        
+
+        poly_line_8365e130e7e8332f4e608fb392f08f61.bindPopup(popup_fac65cda15b0134b94635acf92a9ab13)
+        ;
+
+        
+    
+    
+            var circle_marker_bf150c2367c37e678640584e9df57e77 = L.circleMarker(
+                [50.6, -3.4],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "black", "fillOpacity": 0, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_d0fdf97c3e3ff019fc8bb9738f042556);
+        
+    
+        var popup_7e89140e17177f02d081bf24ee4c942c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_6b8c3d61ce856200b65fd99441675141 = $(`<div id="html_6b8c3d61ce856200b65fd99441675141" style="width: 100.0%; height: 100.0%;">   <b>Dec:</b> 13.7<br>                                 <b>Inc:</b> 45.6<br>                                 <b>a95:</b> 3.4<br>                                 <b>k:</b> 22.0<br>                                 <b>Lat:</b> 50.6<br>                                 <b>Lon:</b> -3.4<br>                                 <b>Reference:</b> Hounslow et al. (2017)</div>`)[0];
+                popup_7e89140e17177f02d081bf24ee4c942c.setContent(html_6b8c3d61ce856200b65fd99441675141);
+            
+        
+
+        circle_marker_bf150c2367c37e678640584e9df57e77.bindPopup(popup_7e89140e17177f02d081bf24ee4c942c)
+        ;
+
+        
+    
+    
+            poly_line_8365e130e7e8332f4e608fb392f08f61.setText(
+                "\u27a4",
+                {
+  "repeat": false,
+  "center": false,
+  "below": false,
+  "offset": 0,
+  "orientation": 0,
+  "attributes": {
+  "font-size": "20",
+  "fill": "black",
+},
+}
+            );
+        
+    
+            var poly_line_0793fde05e8c831db434da27677c91b2 = L.polyline(
+                [[57.5, -1.8], [56.523703992880066, -2.016439613938103]],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "black", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_d0fdf97c3e3ff019fc8bb9738f042556);
+        
+    
+        var popup_dd80b59ab5e3ac4de5298f8fd7c08738 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_295ca9386c354a66eafb7e1e48e32bdd = $(`<div id="html_295ca9386c354a66eafb7e1e48e32bdd" style="width: 100.0%; height: 100.0%;">   <b>Dec:</b> 192.5<br>                                 <b>Inc:</b> 19.1<br>                                 <b>a95:</b> 1.3<br>                                 <b>k:</b> 184.0<br>                                 <b>Lat:</b> 57.5<br>                                 <b>Lon:</b> -1.8<br>                                 <b>Reference:</b> Torsvik (1985)</div>`)[0];
+                popup_dd80b59ab5e3ac4de5298f8fd7c08738.setContent(html_295ca9386c354a66eafb7e1e48e32bdd);
+            
+        
+
+        poly_line_0793fde05e8c831db434da27677c91b2.bindPopup(popup_dd80b59ab5e3ac4de5298f8fd7c08738)
+        ;
+
+        
+    
+    
+            var circle_marker_c8deddbcf1229d79840b5e874fb3d2be = L.circleMarker(
+                [57.5, -1.8],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "black", "fillOpacity": 0, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_d0fdf97c3e3ff019fc8bb9738f042556);
+        
+    
+        var popup_e498c3937de33060da45e3d2fb1d555d = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_90e74efc4a4c45747306aabb6a80f294 = $(`<div id="html_90e74efc4a4c45747306aabb6a80f294" style="width: 100.0%; height: 100.0%;">   <b>Dec:</b> 192.5<br>                                 <b>Inc:</b> 19.1<br>                                 <b>a95:</b> 1.3<br>                                 <b>k:</b> 184.0<br>                                 <b>Lat:</b> 57.5<br>                                 <b>Lon:</b> -1.8<br>                                 <b>Reference:</b> Torsvik (1985)</div>`)[0];
+                popup_e498c3937de33060da45e3d2fb1d555d.setContent(html_90e74efc4a4c45747306aabb6a80f294);
+            
+        
+
+        circle_marker_c8deddbcf1229d79840b5e874fb3d2be.bindPopup(popup_e498c3937de33060da45e3d2fb1d555d)
+        ;
+
+        
+    
+    
+            poly_line_0793fde05e8c831db434da27677c91b2.setText(
+                "\u27a4",
+                {
+  "repeat": false,
+  "center": false,
+  "below": false,
+  "offset": 0,
+  "orientation": 0,
+  "attributes": {
+  "font-size": "20",
+  "fill": "black",
+},
+}
+            );
+        
+    
+            var poly_line_9bce24d2b35e65ea6016210b3db57409 = L.polyline(
+                [[56.2, -3.1], [55.29369221296335, -3.5226182617406994]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_d0fdf97c3e3ff019fc8bb9738f042556);
+        
+    
+        var popup_0ca7baa4c90dc25a1171932c281a71d2 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_14dbe643aebe121dd71a66c4d4faa3e1 = $(`<div id="html_14dbe643aebe121dd71a66c4d4faa3e1" style="width: 100.0%; height: 100.0%;">   <b>Dec:</b> 205.0<br>                                 <b>Inc:</b> 31.0<br>                                 <b>a95:</b> 7.0<br>                                 <b>k:</b> 30.8<br>                                 <b>Lat:</b> 56.2<br>                                 <b>Lon:</b> -3.1<br>                                 <b>Reference:</b> Torsvik (1988)</div>`)[0];
+                popup_0ca7baa4c90dc25a1171932c281a71d2.setContent(html_14dbe643aebe121dd71a66c4d4faa3e1);
+            
+        
+
+        poly_line_9bce24d2b35e65ea6016210b3db57409.bindPopup(popup_0ca7baa4c90dc25a1171932c281a71d2)
+        ;
+
+        
+    
+    
+            var circle_marker_36f52c173abe797b5837aac947591141 = L.circleMarker(
+                [56.2, -3.1],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_d0fdf97c3e3ff019fc8bb9738f042556);
+        
+    
+        var popup_e6a71e25f5728e8df4923a52224a1e68 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_606b94dd9c8110ffeddd3c596cf0c11b = $(`<div id="html_606b94dd9c8110ffeddd3c596cf0c11b" style="width: 100.0%; height: 100.0%;">   <b>Dec:</b> 205.0<br>                                 <b>Inc:</b> 31.0<br>                                 <b>a95:</b> 7.0<br>                                 <b>k:</b> 30.8<br>                                 <b>Lat:</b> 56.2<br>                                 <b>Lon:</b> -3.1<br>                                 <b>Reference:</b> Torsvik (1988)</div>`)[0];
+                popup_e6a71e25f5728e8df4923a52224a1e68.setContent(html_606b94dd9c8110ffeddd3c596cf0c11b);
+            
+        
+
+        circle_marker_36f52c173abe797b5837aac947591141.bindPopup(popup_e6a71e25f5728e8df4923a52224a1e68)
+        ;
+
+        
+    
+    
+            poly_line_9bce24d2b35e65ea6016210b3db57409.setText(
+                "\u27a4",
+                {
+  "repeat": false,
+  "center": false,
+  "below": false,
+  "offset": 0,
+  "orientation": 0,
+  "attributes": {
+  "font-size": "20",
+  "fill": "blue",
+},
+}
+            );
+        
+    
+            var poly_line_a0c00e63d52654fedade53ff6eead1b1 = L.polyline(
+                [[54.8, -5.0], [53.81519224698779, -5.17364817766693]],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "black", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_d0fdf97c3e3ff019fc8bb9738f042556);
+        
+    
+        var popup_45d8f41b4bb03005fe423228b6d220a1 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_65db8f4a58420ede542e5140b905e358 = $(`<div id="html_65db8f4a58420ede542e5140b905e358" style="width: 100.0%; height: 100.0%;">   <b>Dec:</b> 190.0<br>                                 <b>Inc:</b> 22.0<br>                                 <b>a95:</b> 6.8<br>                                 <b>k:</b> 85.0<br>                                 <b>Lat:</b> 54.8<br>                                 <b>Lon:</b> -5.0<br>                                 <b>Reference:</b> Torsvik (1988)</div>`)[0];
+                popup_45d8f41b4bb03005fe423228b6d220a1.setContent(html_65db8f4a58420ede542e5140b905e358);
+            
+        
+
+        poly_line_a0c00e63d52654fedade53ff6eead1b1.bindPopup(popup_45d8f41b4bb03005fe423228b6d220a1)
+        ;
+
+        
+    
+    
+            var circle_marker_5173ff4ae86dccce605b6004051f0986 = L.circleMarker(
+                [54.8, -5.0],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "black", "fillOpacity": 0, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_d0fdf97c3e3ff019fc8bb9738f042556);
+        
+    
+        var popup_664693bdf6ba4fde08a072d322a3094f = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_1b52d92c491a05db40a265114c974a8e = $(`<div id="html_1b52d92c491a05db40a265114c974a8e" style="width: 100.0%; height: 100.0%;">   <b>Dec:</b> 190.0<br>                                 <b>Inc:</b> 22.0<br>                                 <b>a95:</b> 6.8<br>                                 <b>k:</b> 85.0<br>                                 <b>Lat:</b> 54.8<br>                                 <b>Lon:</b> -5.0<br>                                 <b>Reference:</b> Torsvik (1988)</div>`)[0];
+                popup_664693bdf6ba4fde08a072d322a3094f.setContent(html_1b52d92c491a05db40a265114c974a8e);
+            
+        
+
+        circle_marker_5173ff4ae86dccce605b6004051f0986.bindPopup(popup_664693bdf6ba4fde08a072d322a3094f)
+        ;
+
+        
+    
+    
+            poly_line_a0c00e63d52654fedade53ff6eead1b1.setText(
+                "\u27a4",
+                {
+  "repeat": false,
+  "center": false,
+  "below": false,
+  "offset": 0,
+  "orientation": 0,
+  "attributes": {
+  "font-size": "20",
+  "fill": "black",
+},
+}
+            );
+        
+    
+            var poly_line_a32c98dfd79ac6b1c767ecde09326bba = L.polyline(
+                [[51.2, -3.3], [52.058959896930666, -2.787957135129428]],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "black", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_d0fdf97c3e3ff019fc8bb9738f042556);
+        
+    
+        var popup_aa6ad060ff26aa54f00fdab789f5624c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_6ad85146fad6053fb4369e9fce4902d9 = $(`<div id="html_6ad85146fad6053fb4369e9fce4902d9" style="width: 100.0%; height: 100.0%;">   <b>Dec:</b> 30.8<br>                                 <b>Inc:</b> 34.3<br>                                 <b>a95:</b> 5.1<br>                                 <b>k:</b> 31.0<br>                                 <b>Lat:</b> 51.2<br>                                 <b>Lon:</b> -3.3<br>                                 <b>Reference:</b> Briden and Daniels, (1999)</div>`)[0];
+                popup_aa6ad060ff26aa54f00fdab789f5624c.setContent(html_6ad85146fad6053fb4369e9fce4902d9);
+            
+        
+
+        poly_line_a32c98dfd79ac6b1c767ecde09326bba.bindPopup(popup_aa6ad060ff26aa54f00fdab789f5624c)
+        ;
+
+        
+    
+    
+            var circle_marker_555bdbf08464c7c7e55c1cc46a9c3b3b = L.circleMarker(
+                [51.2, -3.3],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "black", "fillOpacity": 0, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_d0fdf97c3e3ff019fc8bb9738f042556);
+        
+    
+        var popup_6cf227702e2a98ad3b62f673765a5c49 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_706574514c7f046b36ae2a2c1396cb90 = $(`<div id="html_706574514c7f046b36ae2a2c1396cb90" style="width: 100.0%; height: 100.0%;">   <b>Dec:</b> 30.8<br>                                 <b>Inc:</b> 34.3<br>                                 <b>a95:</b> 5.1<br>                                 <b>k:</b> 31.0<br>                                 <b>Lat:</b> 51.2<br>                                 <b>Lon:</b> -3.3<br>                                 <b>Reference:</b> Briden and Daniels, (1999)</div>`)[0];
+                popup_6cf227702e2a98ad3b62f673765a5c49.setContent(html_706574514c7f046b36ae2a2c1396cb90);
+            
+        
+
+        circle_marker_555bdbf08464c7c7e55c1cc46a9c3b3b.bindPopup(popup_6cf227702e2a98ad3b62f673765a5c49)
+        ;
+
+        
+    
+    
+            poly_line_a32c98dfd79ac6b1c767ecde09326bba.setText(
+                "\u27a4",
+                {
+  "repeat": false,
+  "center": false,
+  "below": false,
+  "offset": 0,
+  "orientation": 0,
+  "attributes": {
+  "font-size": "20",
+  "fill": "black",
+},
+}
+            );
+        
+    
+            var poly_line_f37670b1b76113947f00b38444b6c499 = L.polyline(
+                [[51.1, -3.4], [52.020504853452444, -3.0092688715107263]],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "black", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_d0fdf97c3e3ff019fc8bb9738f042556);
+        
+    
+        var popup_08f01e3d1bcda864f9da6ce3115472c3 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_aafbd93d02f0b5b5fc9e3f341514ca33 = $(`<div id="html_aafbd93d02f0b5b5fc9e3f341514ca33" style="width: 100.0%; height: 100.0%;">   <b>Dec:</b> 23.0<br>                                 <b>Inc:</b> 34.0<br>                                 <b>a95:</b> 3.5<br>                                 <b>k:</b> 12.8<br>                                 <b>Lat:</b> 51.1<br>                                 <b>Lon:</b> -3.4<br>                                 <b>Reference:</b> Hounslow and McIntosh, 2002</div>`)[0];
+                popup_08f01e3d1bcda864f9da6ce3115472c3.setContent(html_aafbd93d02f0b5b5fc9e3f341514ca33);
+            
+        
+
+        poly_line_f37670b1b76113947f00b38444b6c499.bindPopup(popup_08f01e3d1bcda864f9da6ce3115472c3)
+        ;
+
+        
+    
+    
+            var circle_marker_51e3c02eef9b6d62e0e1026d935dd215 = L.circleMarker(
+                [51.1, -3.4],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "black", "fillOpacity": 0, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_d0fdf97c3e3ff019fc8bb9738f042556);
+        
+    
+        var popup_310de9d886a36a80b4662ffc04e80552 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d50269ac198e0484ac4f6b6ad04ce45d = $(`<div id="html_d50269ac198e0484ac4f6b6ad04ce45d" style="width: 100.0%; height: 100.0%;">   <b>Dec:</b> 23.0<br>                                 <b>Inc:</b> 34.0<br>                                 <b>a95:</b> 3.5<br>                                 <b>k:</b> 12.8<br>                                 <b>Lat:</b> 51.1<br>                                 <b>Lon:</b> -3.4<br>                                 <b>Reference:</b> Hounslow and McIntosh, 2002</div>`)[0];
+                popup_310de9d886a36a80b4662ffc04e80552.setContent(html_d50269ac198e0484ac4f6b6ad04ce45d);
+            
+        
+
+        circle_marker_51e3c02eef9b6d62e0e1026d935dd215.bindPopup(popup_310de9d886a36a80b4662ffc04e80552)
+        ;
+
+        
+    
+    
+            poly_line_f37670b1b76113947f00b38444b6c499.setText(
+                "\u27a4",
+                {
+  "repeat": false,
+  "center": false,
+  "below": false,
+  "offset": 0,
+  "orientation": 0,
+  "attributes": {
+  "font-size": "20",
+  "fill": "black",
+},
+}
+            );
+        
+</script>
+</html>
