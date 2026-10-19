@@ -131,8 +131,7 @@ def convert_polarity(df: pd.DataFrame) -> pd.DataFrame:
                     continue
                 elif row["Polarity"] == "Reverse":
                     norm_df.at[idx, "minc"] = -row["minc"]
-                    norm_df.at[idx, "mdec"] = row["mdec"] + 180
-                    norm_df.at[idx, "mdec"] = row["mdec"] % 360
+                    norm_df.at[idx, "mdec"] =  (row["mdec"] + 180) % 360
                     norm_df.at[idx, 'Polarity'] = 'Normal'
                     converted_count += 1 
             print("Number of rows converted to normal polarity:", converted_count)
